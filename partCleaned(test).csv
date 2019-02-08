@@ -1,0 +1,138 @@
+599,Sugar apple,lb of fruit,1,73.23,1.231228988,0.119536795,0.922674636
+600,"Sugarbeet, root with crown",ton,2000,80.3,1.342682927,0.243902439,1.524390244
+601,"Sugarbeet, root without crown",ton,2000,79.28,1.052,0.2175,1.543333333
+602,"Sugarbeet, top with crown",ton,2000,83.03,2.433333333,0.225,5.79
+603,"Sugarbeet, top without crown",ton,2000,82.1,2.457865169,0.224719101,5.786516854
+604,"Sugarcane, cane top + trash",ton,2000,73.83,0.866,0.235,2.96
+605,"Sugarcane, millable cane (less than 12 month crop)",ton,2000,35,0.088466667,0.020826667,0.229666667
+606,"Sugarcane, millable cane and trash (less than 12 month crop)",ton,2000,35,0.111,0.016,0.167
+607,"Sunflower, for seed (with hull, confection type)",cwt,100,7.36,3.130988604,0.619111111,0.733025641
+608,"Sunflower, for seed (with hull, oil type)",cwt,100,7.36,2.993186325,0.626388889,0.718782051
+609,"Sunflower, for stover (yield less than 500 lb/acre)",lb stover/cwt fruit,100,13.3,0.86,0.11,1.94
+610,"Sunflower, for stover (yield more than 500 lb/acre)",lb stover/cwt fruit,150,13.3,0.86,0.11,1.94
+611,"Sweet Potato, for root",lb of root,1,68.85,0.909181818,0.150984848,1.036767677
+612,"Sweet Potato, for vine",ton,2000,78.1,2.048,0,0
+613,"Sweetclover, for green chop",ton,2000,75,2.874,0.27,1.65
+614,"Sweetclover, for green chop (full bloom)",ton,2000,67.3,2.688,0.22,1.44
+615,"Sweetclover, for green chop (mid bloom)",ton,2000,70.8,2.688,0.24,1.44
+616,"Sweetclover, for green chop (pre bloom)",ton,2000,79.2,3.152,0.48,0
+617,"Sweetclover, for green chop (vegetative)",ton,2000,80.3,3.472,0.44,2.95
+618,"Sweetclover, for hay",ton,2000,10.42,2.649712335,0.236055109,1.652559913
+619,"Sweetclover, for hay (early bloom)",ton,2000,17.4,2.768,0,0
+620,"Sweetclover, for hay (full bloom)",ton,2000,11.1,2.064,0,0
+621,"Sweetclover, for hay (mature)",ton,2000,8.95,1.824,0.185,0.8
+622,"Sweetclover, for hay (vegetative)",ton,2000,9.8,2.576,0.295,1.78
+623,"Sweetclover, for seed",cwt,100,7.8,6.490950109,0,0
+624,"Sweetclover, for silage",ton,2000,70.7,2.857055928,0.21,1.955
+625,"Sweetclover, for silage (early bloom)",ton,2000,72.8,3.424,0.25,1.95
+626,"Sweetclover, for silage (full bloom)",ton,2000,68.6,2.992,0.235,1.695
+627,"Sweetclover, for silage (pre bloom)",ton,2000,65.2,3.44,0.25,1.95
+628,"Switchgrass, for green chop",ton,2000,44.85,0.944,0.09,0
+629,"Switchgrass, for green chop ( mature)",ton,2000,58.07,0.81631746,0.15,1.97
+630,"Switchgrass, for green chop (full bloom)",ton,2000,60.4,1.008,0.12,0
+631,"Switchgrass, for green chop (over ripe)",ton,2000,23.3,0.304,0.05,0
+632,"Switchgrass, for green chop (vegetative)",ton,2000,67.27,1.642805195,0.215,2.85
+633,Tamarind,lb of fruit,1,31.4,0.653061224,0.164723032,0.915451895
+634,Tangerine,lb of fruit ,1,87.6,0.812903226,0.080645161,1.266129032
+635,"Taro, for corm",lb of corm,1,72,0.864,0.265,0
+636,"Taro-Pink, for corm",lb of corm,1,80,0.8,0.535,2.5
+637,"Taro-White, for corm",lb of corm,1,82,1.777777778,0.333333333,3.944444444
+638,"Timothy + Alfalfa, for green chop (50% alfalfa)",ton,2000,78.08,3.364748858,0.368824201,2.239360731
+639,"Timothy + Alfalfa, for hay",ton,2000,10.37,2.172886905,0.211071429,2.16
+640,"Timothy + Alfalfa, for hay (cut 1)",ton,2000,9.8,1.792,0.14,0
+641,"Timothy + Alfalfa, for hay (cut 2)",ton,2000,9,2.8,0.21,0
+642,"Timothy + Clover, for hay",ton,2000,11.1,1.488,0.17,1.81
+643,"Timothy + Clover-Red, for hay",ton,2000,9.6,0,0.17,1.52
+644,"Timothy + Clover-White-Ladino type, for silage",ton,2000,70.6,3.168,0.2,2.22
+645,"Timothy, for green chop",ton,2000,72.4,2.048,0.38,2.09
+646,"Timothy, for green chop (early to mid bloom)",ton,2000,73.05,1.578,0.3,2.06
+647,"Timothy, for green chop (late bloom)",ton,2000,73.65,1.065,0.21,1.68
+648,"Timothy, for green chop (mature)",ton,2000,69.6,0.963,0.18,1.57
+649,"Timothy, for green chop (vegetative)",ton,2000,74.45,2.406,0.43,2.54
+650,"Timothy, for hay",ton,2000,9.48,1.200544551,0.167447757,1.629129214
+651,"Timothy, for hay (full bloom)",ton,2000,12.2,1.205213483,0.233679775,1.826348315
+652,"Timothy, for hay (mature)",ton,2000,13.08,0.952264045,0.169513109,1.588089888
+653,"Timothy, for hay (mid bloom)",ton,2000,11.96,1.540957303,0.221488764,1.82
+654,"Timothy, for hay (pre bloom)",ton,2000,12.28,2.052714607,0.4,3.05
+655,"Timothy, for hay (vegetative)",ton,2000,13.65,2.25,0.34,1.9
+656,"Timothy, for silage",ton,2000,66.7,1.697070119,0.290315534,1.685711974
+657,"Timothy, for silage (boot)",ton,2000,66.3,1.5,0.24,1.59
+658,"Timothy, for silage (early bloom)",ton,2000,63.7,1.632,0.29,1.69
+659,"Timothy, for silage (full bloom)",ton,2000,64.3,1.552,0.29,1.69
+660,"Timothy, for silage (milk stage)",ton,2000,58.5,1.344,0.29,1.69
+661,"Timothy, for silage (pre bloom)",ton,2000,73.1,1.92,0.29,1.69
+662,"Timothy, for silage (vegetative)",ton,2000,70.3,1.872,0.32,1.69
+663,"Tobacco-Air cured, Burley type",cwt,100,25,4,0.312,3.86
+664,"Tobacco-Air cured, Havana Seed type",cwt,100,78.5,3.85,0.173,2.9
+665,"Tobacco-Air cured, Maryland Broadleaf  type",cwt,100,18,3.1,0,0
+666,Tobacco-Flue-cured,cwt,100,20,2.133,0.2725,1.989
+667,Tomato,lb of fruit ,1,94,2.558023392,0.471052632,4.278701754
+668,"Trefoil-Birdsfoot, for green chop",ton,2000,80.13,3.162666667,0.24,2.786666667
+669,"Trefoil-Birdsfoot, for green chop (early bloom)",ton,2000,75,3.2,0,0
+670,"Trefoil-Birdsfoot, for green chop (mid bloom to full bloom)",ton,2000,78,2.63,0.27,2.98
+671,"Trefoil-Birdsfoot, for hay",ton,2000,9.97,2.517333333,0.226666667,1.886666667
+672,"Trefoil-Birdsfoot, for hay (early bloom)",ton,2000,12.8,3.11,0,0
+673,"Trefoil-Birdsfoot, for hay (mid bloom to full bloom)",ton,2000,10.7,2.252,0,0
+674,"Triticale, for grain",bu,48,10.95,2.453661029,0.34,0.57
+675,"Turnip, for green chop",ton,2000,86.53,3.298,0.4225,3.015
+676,"Turnip, for green chop",lb of leaf,1,87.3,3.488,0.51,3
+677,"Turnip, for root",lb of root,1,91.06,2.242012903,0.318758961,2.732139785
+678,"Vetch, for seed",lb of seed,1,9.55,4.608,0.59,0
+679,"Vetch-Common, for green chop",ton,2000,79.7,2.983098039,0.331045752,2.5
+680,"Vetch-Common, for green chop (early bloom)",ton,2000,75,3.7,0.26,3.15
+681,"Vetch-Common, for green chop (full bloom)",ton,2000,75,3,0.35,2.51
+682,"Vetch-Common, for hay",ton,2000,12.2,2.596629214,0.359850187,2.238127341
+683,"Vetch-Common, for hay (early bloom)",ton,2000,16,3.552,0,0
+684,"Vetch-Common, for hay (full bloom)",ton,2000,14.7,2.938,0,0
+685,"Vetch-Hairy, for green chop (mid bloom)",ton,2000,78.25,3.754,0.33,2.25
+686,"Vetch-Hairy, for hay",ton,2000,12.1,3.679821555,0.35628692,2.228636364
+687,"Vetch-Hairy, for hay (vegetative)",ton,2000,11.5,3.616,0.36,2.09
+688,"Walnut-Black, for seed extracted from nut",lb of nut,1,4.36,4.073609369,0.485152656,0.547887913
+689,Walnut-English or Persian,lb of nut,1,3.65,2.373015049,0.329008822,0.521017125
+690,"Wheat, for green chop",ton,2000,73.55,2.336,0.31,0
+691,"Wheat, for green chop (milk stage)",ton,2000,73.4,1.92,0,0
+692,"Wheat, for hay",ton,2000,11.3,1.251017699,0.197278761,1.204026549
+693,"Wheat, for hay (dough stage)",ton,2000,17.45,1.28,0,0
+694,"Wheat, for hay (mature)",ton,2000,12.75,1.232,0.2,0
+695,"Wheat, for hay (milk stage)",ton,2000,15.7,1.456,0,0
+696,"Wheat-Bread-Hard Red Spring, for grain",bu,60,11.45,2.703995561,0.434650388,0.41
+697,"Wheat-Bread-Hard Red Winter, for grain",bu,60,11.68,2.303221477,0.434949664,0.486666667
+698,"Wheat-Bread-Soft Red Winter, for grain",bu,60,11.44,1.943870852,0.373778027,0.453333333
+699,"Wheat-Bread-Soft White Winter, for grain",bu,60,11.41,1.800168256,0.368823612,0.486666667
+700,"Wheat-Durum, for grain",bu,60,11.83,2.432,0.423333333,0.503333333
+701,"Wheatgrass, for green chop",ton,2000,55.4,1.392,0,0
+702,"Wheatgrass, for green chop (mature)",ton,2000,39.5,1.44,0,0
+703,"Wheatgrass, for green chop part (early bloom)",ton,2000,63.4,1.456,0,0
+704,"Wheatgrass, for hay",ton,2000,8.37,1.343486506,0.07,0
+705,"Wheatgrass, for hay (early bloom)",ton,2000,8,1.376,0.27,2.67
+706,"Wheatgrass, for hay (late bloom)",ton,2000,10.2,0.848,0,0
+707,"Wheatgrass, for hay (mature)",ton,2000,9.6,0.848,0.1,0
+708,"Wheatgrass-Bluebunch, for hay (over ripe)",ton,2000,11.1,0.544,0,0
+709,"Wheatgrass-Crested, for green chop",ton,2000,54.25,1.872,0.14,1.72
+710,"Wheatgrass-Crested, for green chop (early bloom)",ton,2000,62.4,1.541333333,0.18,0
+711,"Wheatgrass-Crested, for green chop (full bloom)",ton,2000,61.27,1.188437218,0.15,1.04
+712,"Wheatgrass-Crested, for green chop (mature)",ton,2000,44.7,1.000833333,0.145833333,1.04
+713,"Wheatgrass-Crested, for hay",ton,2000,7.85,1.528,0.15,0
+714,"Wheatgrass-Crested, for hay (early bloom)",ton,2000,13.03,1.904444444,0.27,0
+715,"Wheatgrass-Crested, for hay (full bloom)",ton,2000,12.55,1.396,0.16,0
+716,"Wheatgrass-Crested, for hay (mature)",ton,2000,10.6,0.776,0.09,0
+717,"Wheatgrass-Crested, for hay (mid bloom)",ton,2000,3.6,1.832,0,0
+718,"Wheatgrass-Intermediate, for hay",ton,2000,9.95,1.303407407,0.19,1.65
+719,"Wheatgrass-Slender, for hay",ton,2000,8.93,1.396740741,0.254166667,2.679444444
+720,"Wheatgrass-Slender, for hay (early bloom)",ton,2000,5.4,1.936,0,0
+721,"Wheatgrass-Slender, for hay (full bloom)",ton,2000,6.8,1.472,0,0
+722,"Wheatgrass-Slender, for hay (vegetative)",ton,2000,7.1,2.88,0,0
+723,"Wheatgrass-Tall, for hay",ton,2000,11,1.264,0,0
+724,"Wheatgrass-Thickspike, for hay",ton,2000,8,1.2,0,0
+725,"Wheatgrass-Western, for hay",ton,2000,10.85,1.376,0.25,0
+726,"Wheatgrass-Western, for hay (full bloom)",ton,2000,6.6,1.376,0,0
+727,"Wheatgrass-Western, for hay (mature)",ton,2000,10.1,0.736,0.08,0
+728,"Wheatgrass-Western, for hay (vegetative)",ton,2000,11.8,1.92,0.21,0
+729,"Wheat-Spelt, for grain",bu,40,10.17,2.128,0.42,0
+730,"Wheat-Spelt, for straw",lb straw/bu grain,80.475,17.25,0.528,0,0
+731,"Wheat-Spring including Durum, for straw",lb straw/bu grain,80.475,9.22,0.63895731,0.063898488,1.173574514
+732,"Wheat-Winter, for straw",lb straw/bu grain,92.475,9.22,0.63895731,0.063898488,1.173574514
+733,"Wildrice, for grain",lb of caryopsis,1,37.5,2.64432,0.4995,0.489
+734,"Wildrice, for straw",lb straw/lb grain,1.31,9.2,0.809,0.11,0.788
+735,Yam,lb of tuber,1,74,1.107692308,0.25,2.307692308
+736,Barbados Cherry,lb of fruit,1,91.41,0.745052387,0.128055879,1.699650757
