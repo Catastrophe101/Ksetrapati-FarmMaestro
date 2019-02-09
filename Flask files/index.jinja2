@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">//download bootstrap and change the href
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+    <body><center>
+    <form method="post" action="{{ url_for('result') }}">
+    <div class="form-group">
+      <label for="moisture">Moisture:</label>
+      <input type="text" class="form-control" id="moisture" placeholder="Enter moisture">
+    </div>
+	
+	<div class="form-group">
+      <label for="nitrogen">Nitrogen:</label>
+      <input type="text" class="form-control" id="N" placeholder="Enter nitrogen">
+	  </div>
+	  
+	<div class="form-group">
+      <label for="phosphorus">Phosphorus:</label>
+      <input type="text" class="form-control" id="P" placeholder="Enter phosphorus">
+    </div>
+	
+    <div class="form-group">
+      <label for="potassium">Potassium:</label>
+      <input type="text" class="form-control" id="K" placeholder="Enter potassium">
+    </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+		{% if result %}
+            Result is: {{ result }}
+        {% endif %}
+    </form>
+    </body>
+</html>
