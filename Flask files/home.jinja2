@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form method="post">
+		<label for="moisture">Moisture:</label>
+      <input type="text" id="moisture" placeholder="Enter moisture">
+	  
+	  <label for="nitrogen">Nitrogen:</label>
+      <input type="text" id="N" placeholder="Enter nitrogen">
+	  
+         
+      <label for="phosphorus">Phosphorus:</label>
+      <input type="text"id="P" placeholder="Enter phosphorus">   
+	  
+	  
+      <label for="potassium">Potassium:</label>
+      <input type="text" id="K" placeholder="Enter potassium">
+	  
+
+            <input type="submit" value="Calculate"/>
+        </form>
+        {% if result %}
+            Result is: {{ result }}
+        {% endif %}
+    </body>
+</html>
