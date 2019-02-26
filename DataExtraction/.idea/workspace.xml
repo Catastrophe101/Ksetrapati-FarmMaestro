@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/DataExtraction.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="523">
-              <caret line="107" column="35" lean-forward="true" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+              <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -143,6 +143,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataExtraction.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2354">
+          <caret line="107" column="35" lean-forward="true" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2266">
           <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
@@ -165,7 +172,7 @@
     <entry file="file://$PROJECT_DIR$/DataExtraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
-          <caret line="107" column="35" lean-forward="true" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
         </state>
       </provider>
     </entry>
