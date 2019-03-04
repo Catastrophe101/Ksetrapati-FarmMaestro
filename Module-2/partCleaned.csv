@@ -1,738 +1,725 @@
-,Crop,YieldUnit,AvYieldUnitWeight(lb),AvMoisture%,AvN%(dry),AvP%(dry),AvK%(dry)
-0,Acorn,lb of fruit,1,27.9,1.364771151,0.109570042,0.747572816
-1,"Alfalfa + Orchardgrass, for hay",ton,2000,9.7,2.479714286,0.267857143,0
-2,"Alfalfa + Orchardgrass, for hay (cut 1)",ton,2000,7.95,2.144,0.2,1.49
-3,"Alfalfa + Smooth Brome, for green chop",ton,2000,77.63,3.322074074,0.310555556,2.8
-4,"Alfalfa + Smooth Brome, for hay",ton,2000,11.58,2.41770852,0.271053812,1.897746637
-5,"Alfalfa + Smooth Brome, for hay (cut 1)",ton,2000,10.1,2.192,0.295,1.4
-6,"Alfalfa + Smooth Brome, for hay (cut 2)",ton,2000,10.2,2.192,0.21,0
-7,"Alfalfa + Timothy, for green chop (50% alfalfa)",ton,2000,78.08,3.364748858,0.368824201,2.239360731
-8,"Alfalfa + Timothy, for hay",ton,2000,10.37,2.172886905,0.211071429,2.16
-9,"Alfalfa + Timothy, for hay (cut 1)",ton,2000,9.8,1.792,0.14,0
-10,"Alfalfa + Timothy, for hay (cut 2)",ton,2000,9,2.8,0.21,0
-11,"Alfalfa, for green chop",ton,2000,76.5,3.206196721,0.27897541,2.608032787
-12,"Alfalfa, for green chop (early bloom)",ton,2000,76.18,3.351777778,0.292777778,2.717777778
-13,"Alfalfa, for green chop (early bloom, cut 1)",ton,2000,76.1,2.952,0.31,3.1
-14,"Alfalfa, for green chop (early bloom, cut 2)",ton,2000,74.6,2.864,0.38,2.95
-15,"Alfalfa, for green chop (early bloom, cut 3)",ton,2000,74.35,3.288,0,0
-16,"Alfalfa, for green chop (full bloom)",ton,2000,75.05,2.796419204,0.270739477,2.890978261
-17,"Alfalfa, for green chop (full bloom, cut 1)",ton,2000,75.3,2.528,0.4,2.88
-18,"Alfalfa, for green chop (full bloom, cut 2)",ton,2000,71.4,2.256,0,0
-19,"Alfalfa, for green chop (full bloom, cut 3)",ton,2000,71.2,2.208,0,0
-20,"Alfalfa, for green chop (mid bloom)",ton,2000,75.08,3.158580237,0.29166996,2.713478261
-21,"Alfalfa, for green chop (mid bloom, cut 1)",ton,2000,77.9,2.496,0,0
-22,"Alfalfa, for green chop (mid bloom, cut 2)",ton,2000,76.8,0,0.43,3.25
-23,"Alfalfa, for green chop (pre bloom)",ton,2000,78.34,3.487117588,0.343919598,2.267952261
-24,"Alfalfa, for green chop (pre bloom, cut 1)",ton,2000,82.9,3.488,0.39,3.4
-25,"Alfalfa, for green chop (pre bloom, cut 2)",ton,2000,76.95,3.376,0.375,3.39
-26,"Alfalfa, for green chop (pre bloom, cut 3)",ton,2000,76.8,3.92,0,0
-27,"Alfalfa, for hay",ton,2000,9.65,2.78879558,0.261298343,2.119198895
-28,"Alfalfa, for hay (cut 1)",ton,2000,9.9,2.616,0.35,2.48
-29,"Alfalfa, for hay (cut 2)",ton,2000,9.35,2.856,0.285,1.92
-30,"Alfalfa, for hay (cut 3)",ton,2000,10.3,2.968,0.19,2.47
-31,"Alfalfa, for hay (early bloom)",ton,2000,10.58,3.054446409,0.228798343,2.344198895
-32,"Alfalfa, for hay (early bloom, cut 1)",ton,2000,9.3,2.736,0.255,2.465
-33,"Alfalfa, for hay (early bloom, cut 2)",ton,2000,12,3.168,0.255,2.54
-34,"Alfalfa, for hay (early bloom, cut 3)",ton,2000,12.95,3.248,0.27,2.84
-35,"Alfalfa, for hay (full bloom)",ton,2000,11.12,2.618647514,0.238273481,1.764198895
-36,"Alfalfa, for hay (full bloom, cut 1)",ton,2000,15.25,2.392,0.22,1.99
-37,"Alfalfa, for hay (full bloom, cut 2)",ton,2000,12.7,2.592,0,0
-38,"Alfalfa, for hay (full bloom, cut 3)",ton,2000,12.35,1.96,0,0
-39,"Alfalfa, for hay (mid bloom)",ton,2000,10.76,2.805646409,0.251298343,1.779198895
-40,"Alfalfa, for hay (mid bloom, cut 1)",ton,2000,11.05,2.424,0.25,0
-41,"Alfalfa, for hay (mid bloom, cut 2)",ton,2000,9.2,2.736,0.31,3.25
-42,"Alfalfa, for hay (mid bloom, cut 3)",ton,2000,11.6,3.008,0,0
-43,"Alfalfa, for hay (pre bloom)",ton,2000,11.34,3.388963536,0.336160221,2.436160221
-44,"Alfalfa, for hay (pre bloom, cut 1)",ton,2000,17.4,2.528,0.29,2.8
-45,"Alfalfa, for hay (pre bloom, cut 2)",ton,2000,14,2.496,0,0
-46,"Alfalfa, for hay (pre bloom, cut 3)",ton,2000,15.4,3.168,0,0
-47,"Alfalfa, for hay (late vegetative, cut 1)",ton,2000,12.4,3.184,0.28,2.8
-48,"Alfalfa, for hay (late vegetative, cut 2)",ton,2000,13,3.216,0.37,3.39
-49,"Alfalfa, for hay (late vegetative, cut 3)",ton,2000,14,3.056,0.22,0
-50,"Alfalfa, for seed",cwt,100,11.7,6.014795017,0,0
-51,"Alfalfa, for silage (tenth bloom, cut 2)",ton,2000,75.9,3.34,0.38,2.88
-52,Almonds (without shell),lb of seed,1,4.42,3.339610797,0.544046872,0.765850596
-53,Alomond (with shell),lb of fruit,1,15,3.3,0,0
-54,Apple,lb of fruit ,1,81.78,0.338793093,0.051779714,0.747809583
-55,Apricot,lb of fruit ,1,86.35,1.641025641,0.139194139,2.168498168
-56,"Artichoke-Globe, for bud",lb of fruit ,1,83,2.541176471,0.509411765,2
-57,"Artichoke-Jerusalum, for tuber",lb of tuber,1,80.07,1.52,0.303333333,2.016666667
-58,"Asparagus-Green, for shoot or spear (immature)",lb of stem ,1,92,5.55,0.69,0
-59,"Asparagus-White, for shoot or spear (immature)",lb of stem ,1,93,4.342857143,0.742857143,0
-60,Avocado (all varieties),lb of fruit ,1,74.27,1.231247571,0.159347066,2.328021765
-61,Avocado (Florida),lb of fruit ,1,79.73,1.255056734,0.192402565,2.407498767
-62,Avocadoe (California),lb of fruit ,1,72.56,1.2303207,0.153061224,2.310495627
-63,"Bahiagrass, for green chop",ton,2000,69.7,1.322666667,0.173333333,2.055
-64,"Bahiagrass, for hay",ton,2000,9.83,1.52,0.2,0
-65,"Bahiagrass, for hay (mature)",ton,2000,9.1,0.752,0,0
-66,Banana,lb of fruit ,1,74.26,0.64024864,0.077700078,1.538461539
-67,"Barley-2 row, for grain",bu,48,13.3,2.32,0.35,0.49
-68,"Barley-2 row, for straw",lb straw/bu grain,72,9.2,0.688,0.08,2.11
-69,"Barley-6 row, for grain (excluding Pacific Coast)",bu,48,11.72,2.109338703,0.419356823,0.537024609
-70,"Barley-6 row, for grain (Pacific coast only)",bu,48,10.77,1.614054134,0.375691509,0.58
-71,"Barley-6 row, for green chop (boot)",ton,2000,79.65,2.204648649,0.37018018,1.578288288
-72,"Barley-6 row, for hay",ton,2000,11.28,1.418136564,0.260825991,1.489196035
-73,"Barley-6 row, for straw",lb straw/bu grain,72,11.25,0.686047242,0.095555556,1.793888889
-74,"Bean, for seed (dry)",cwt,100,11.4,4.224,0.54,2.69
-75,"Bean-Faba, for pod with seeds (immature)",lb of fruit,1,81,4.715789474,0.5,1.315789474
-76,"Bean-Kidney, for seed",cwt,100,10.75,3.985707865,0.443333333,1.066666667
-77,"Bean-Kidney, for straw",lb straw/cwt grain,76.14,12.3,1.274971942,0.151967826,1.594927048
-78,"Bean-Lima(baby), for pod with seeds",lb of fruit,1,69,3.664516129,0.564516129,0
-79,"Bean-Lima, for pod with seeds",lb of fruit,1,71,3.475862069,0.5,0.896551724
-80,"Bean-Lima, for seed",cwt,100,9.98,3.594547486,0.408058659,1.854860335
-81,"Bean-Lima, for straw",ton,2000,10.95,1.198629256,0.14295174,1.142390572
-82,"Bean-Navy, for seed",cwt,100,10.38,4.028666667,0.608333333,1.432777778
-83,"Bean-Navy, for straw",lb straw/cwt grain,76.14,10.93,1.155962589,0.14530116,1.141593715
-84,Bean-Snap for seed (dry),cwt,100,10,4,0,0
-85,"Bean-Snap, for pod with seeds (immature)",lb of fruit,1,87.75,2.995652174,0.498695652,2.304347826
-86,Beechnut (dry),lb of nut,1,6.6,1.062098501,0,0
-87,"Beet-Red Table, for root",lb of root,1,87.46,2.145927273,0.323538462,2.457552389
-88,"Beet-Red Table, for top",lb of leaf,1,87.95,3.686,0.44,6.26
-89,"Bentgrass-Colonial, for hay",ton,2000,13.1,1.136,0.2,1.6
-90,"Bermudagrass, for green chop",ton,2000,70.88,1.878,0.1925,1.9575
-91,"Bermudagrass, for green chop (early to mid bloom)",ton,2000,68.33,1.735047619,0.21,1.735714286
-92,"Bermudagrass, for green chop (full bloom to mature)",ton,2000,68.33,1.518380952,0.19,1.3
-93,"Bermudagrass, for green chop (pre bloom)",ton,2000,75,2.75,0.23,2.13
-94,"Bermudagrass, for hay",ton,2000,9.05,1.374556169,0.189986188,1.549765193
-95,"Bermudagrass, for hay (early to mid bloom)",ton,2000,11.05,1.61,0,0
-96,"Bermudagrass, for hay (full bloom to mature)",ton,2000,11.4,1.198,0,0
-97,"Bermudagrass, for hay (pre bloom)",ton,2000,12.2,2.354,0,0
-98,Blackberry,lb of fruit ,1,85.64,0.802228412,0.146239554,1.364902507
-99,Blackeye pea or Cowpea or Southern Pea,cwt,100,85,3.52,0.52,1.466666667
-100,Blueberry,lb of fruit ,1,84.61,0.696556205,0.064977258,0.578297596
-101,"Bluegrass, for green chop",ton,2000,68.85,2.913907285,0.430463576,1.953642384
-102,"Bluegrass, for green chop (early bloom)",ton,2000,64.3,2.352,0.29,2.14
-103,"Bluegrass, for green chop (full bloom)",ton,2000,67.1,1.168,0.27,1.37
-104,"Bluegrass, for green chop (mid bloom)",ton,2000,70.7,2,0.31,1.97
-105,"Bluegrass, for hay",ton,2000,10.3,1.76,0.27,1.72
-106,"Bluegrass, for hay (full bloom)",ton,2000,11.1,1.68,0,0
-107,"Bluegrass-Kentucky, for green chop",ton,2000,70.47,2.603302428,0.396821192,1.967880795
-108,"Bluegrass-Kentucky, for green chop (early bloom)",ton,2000,65.07,2.656,0.37,2.01
-109,"Bluegrass-Kentucky, for green chop (full bloom)",ton,2000,65.35,2.115384615,0.282362637,2.005494506
-110,"Bluegrass-Kentucky, for green chop (mature)",ton,2000,66.6,1.285,0,0
-111,"Bluegrass-Kentucky, for green chop (mid bloom)",ton,2000,69.38,2.298424242,0.31,1.99
-112,"Bluegrass-Kentucky, for hay",ton,2000,10.95,1.602331096,0.283003356,1.922002237
-113,"Bluegrass-Kentucky, for hay (early bloom)",ton,2000,10,1.952,0,0
-114,"Bluegrass-Kentucky, for hay (full bloom)",ton,2000,7.9,1.424,0.27,1.52
-115,"Bluegrass-Kentucky, for hay (mature)",ton,2000,11.86,1.006403666,0.229773769,1.698825888
-116,"Bluegrass-Kentucky, for hay (mid bloom)",ton,2000,13.45,1.723,0.24,0
-117,"Bluestem, for green chop",ton,2000,60.35,1.346486804,0.146627566,1.348973607
-118,"Bluestem, for green chop (early bloom)",ton,2000,65.8,1.68,0,0
-119,"Bluestem, for green chop (full bloom)",ton,2000,29.6,0,0.13,0
-120,"Bluestem, for green chop (mature)",ton,2000,42.52,1.009433071,0.126948819,0.51
-121,"Bluestem, for hay",ton,2000,10.83,0.896267898,0,0
-122,"Bluestem, for hay (early bloom)",ton,2000,20,1.4,0,0
-123,"Bluestem, for hay (full bloom)",ton,2000,20,1.1,0,0
-124,"Bluestem, for hay (mature)",ton,2000,20,0.7,0,0
-125,"Brazilnut (dry, unblanched)",lb of nut,1,3.34,2.373680944,0.620732464,0.620732464
-126,Breadfruit,lb of fruit ,1,70.65,0.58330494,0.102214651,1.669505963
-127,"Broccoli, for stem",lb of stem ,1,54.9,3.376,0,0
-128,"Broccoli, for stem and immature floral parts",lb of stem ,1,89.7,5.646666667,0.753333333,3.545
-129,"Bromegrass, for green chop",ton,2000,64.4,2.144,0.285,2.19
-130,"Bromegrass, for green chop (late bloom)",ton,2000,72.6,1.792,0,0
-131,"Bromegrass, for green chop (mature)",ton,2000,44,1.024,0.26,1.25
-132,"Bromegrass, for hay",ton,2000,8.93,1.530666667,0.16,1.64
-133,"Bromegrass, for hay (early bloom)",ton,2000,7.1,1.736,0.325,1.91
-134,"Bromegrass, for hay (mature)",ton,2000,8.63,1.061333333,0.086666667,1.9
-135,"Bromegrass, for seed",cwt,100,55.8,1.552,0,0.93
-136,"Bromegrass-Smooth, for green chop",ton,2000,67.6,2.176,0.32,3.16
-137,"Bromegrass-Smooth, for green chop (full bloom)",ton,2000,71.3,1.885777778,0.28,2.33
-138,"Bromegrass-Smooth, for green chop (mature)",ton,2000,45.5,0.836264151,0.19245283,0.34
-139,"Bromegrass-Smooth, for green chop (mid bloom)",ton,2000,70,2.24,0,0
-140,"Bromegrass-Smooth, for green chop (pre bloom)",ton,2000,74.7,3.024,0,0
-141,"Bromegrass-Smooth, for hay",ton,2000,10.48,2.027342342,0.230990991,2.203761261
-142,"Bromegrass-Smooth, for hay (full bloom)",ton,2000,10.63,1.661863014,0,1.43
-143,"Bromegrass-Smooth, for hay (mature)",ton,2000,6.83,0.98,0.192765957,2.305
-144,"Bromegrass-Smooth, for hay (mid bloom)",ton,2000,12.4,1.968,0.28,1.99
-145,"Bromegrass-Smooth, for hay (late vegetative)",ton,2000,8.8,3.152,0.46,3.41
-146,"Bromegrass-Smooth, for hay (pre bloom)",ton,2000,9.7,1.931455149,0,0
-147,"Bromegrsss, for hay (late bloom)",ton,2000,12.9,1.192,0.35,2.32
-148,"Brussel Sprouts, for bud",lb of fruit ,1,86.6,4.981333333,0.5125,3.25
-149,"Buckwheat (ordinary cultivars), for grain",bu,48,12.2,1.937932723,0.360568182,0.510340909
-150,"Buckwheat (ordinary cultivars), for straw",ton,2000,11.32,0.791639892,0.101286682,2.619334086
-151,Butternut (dry),lb of nut,1,3.34,4.121663563,0.461411132,0.435547279
-152,"Cabbage, for head (with outer leaves)",lb of leaf,1,90.8,3.454468085,0.354787234,2.727730496
-153,"Cabbage, for head (without outer leaves)",lb of leaf,1,91.7,3.034245614,0.384912281,3.163157895
-154,"Cabbage, for waste (outer leaves)",lb of leaf,1,85.75,2.664556962,0.21,0
-155,Cabbage-Chinese,lb of leaf,1,93,3.085714286,0.485714286,2.928571429
-156,Cabbage-Red,lb of leaf,1,92,2.8,0.525,2.375
-157,Cabbage-White,lb of leaf,1,92,2.4,0.425,2.75
-158,"Canarygrass-Reed, for green chop",ton,2000,75.8,2.424,0.33,3.64
-159,"Canarygrass-Reed, for green chop (early bloom)",ton,2000,76.1,2.12,0.2,0
-160,Cherry (sweet),lb of fruit ,1,81.38,1.073960499,0.098752599,1.164241164
-161,Chestnut-Chinese,lb of fruit ,1,43.95,1.198929527,0.171275647,0.79750223
-162,Chestnut-European,lb of fruit,1,48.65,0.754040896,0.181110029,1.008763389
-163,Chestnut-Japanese,lb of fruit,1,61.41,0.932884167,0.186576833,0.852552475
-164,"Chicory, for green chop",ton,2000,82.6,0.0352,0,0
-165,Chive,lb of leaf,1,92,5.6,0.6375,3.125
-166,"Clover + Timothy, for hay",ton,2000,11.1,1.488,0.17,1.81
-167,"Canarygrass-Reed, for hay (vegetative)",ton,2000,8.25,2.64,0.24,0
-168,"Canola, for seed",cwt,100,8.93,3.888736648,0.62,0.98
-169,"Canola, for straw",lb straw/cwt grain,236,20.3,0.56,0,0
-170,Carambola,lb of fruit ,1,90.92,0.95154185,0.176211454,1.795154185
-171,Carissa,lb of fruit,1,84.17,0.505369551,0.044219836,1.642451042
-172,"Carrot, for root",lb of root,1,88,1.510773109,0.328355742,2.430168067
-173,"Canarygrass-Reed, for green chop (mature)",ton,2000,70,1.248,0.2,0
-174,"Canarygrass-Reed, for green chop (mid bloom)",ton,2000,74.7,1.984,0.28,2.4
-175,"Canarygrass-Reed, for green chop (vegetative)",ton,2000,76.25,2.528,0.4,3.31
-176,"Canarygrass-Reed, for hay",ton,2000,10.97,1.701333333,0.283333333,2.99
-177,"Canarygrass-Reed, for hay (early bloom)",ton,2000,8.1,2.184,0.47,2.62
-178,"Canarygrass-Reed, for hay (mature)",ton,2000,7.9,1.424,0.145,0
-179,"Canarygrass-Reed, for hay (mid bloom)",ton,2000,8.1,0,0.31,2.07
-180,"Carrot, for top",lb of stem and leaf,1,83.83,2.349666667,0.1875,1.875
-181,"Cauliflower, for immature inflorescence",lb of fruit ,1,90.88,4.42631579,0.664473684,3.22
-182,Celery-Green,lb of stem ,1,94.55,2.424,0.66,4.8
-183,Celery-Self-blanching,lb of stem ,1,96,2.8,0.675,4
-184,"Chard-Swiss, for immature leaf",lb of leaf,1,92,3.6,0.575,3
-185,Cherimoya,lb of fruit,1,73.5,0.78490566,0.150943396,0
-186,"Cherry (sour, red)",lb of fruit ,1,86.13,1.153568854,0.10814708,1.247296323
-187,"Clover-Alsike, for green chop",ton,2000,77.2,2.8876,0.285681818,2.7
-188,"Clover-Alsike, for green chop (full bloom)",ton,2000,75.87,2.496063492,0.260777509,2.582372881
-189,"Clover-Alsike, for green chop (mid bloom)",ton,2000,76.4,2.512,0.25,2.58
-190,"Clover-Alsike, for hay",ton,2000,12.56,2.266845444,0.254679415,2.48116423
-191,"Clover-Alsike, for hay (early bloom)",ton,2000,17.85,2.632,0,0
-192,"Clover-Alsike, for hay (full bloom)",ton,2000,10.35,2.362247191,0.280898876,2.550561798
-193,"Clover-Alsike, for hay (mid bloom)",ton,2000,11,2.416,0.28,2.55
-194,"Clover-Crimson, for green chop",ton,2000,80.78,2.737579888,0.275356081,3.100862069
-195,"Clover-Crimson, for green chop (late bloom)",ton,2000,84.1,2.816,0,0
-196,"Clover-Crimson, for hay",ton,2000,11.75,2.654096389,0.224392347,2.759329609
-197,"Clover-Crimson, for hay (early bloom)",ton,2000,15.1,3.776,0,0
-198,"Clover-Crimson, for hay (late bloom)",ton,2000,13.9,2.624,0,0
-199,"Clover-Red + Grass, for hay",ton,2000,11.6,2.272,0.23,1.42
-200,"Clover-Red + Grass, for hay (full bloom)",ton,2000,11.3,2.528,0,0
-201,"Clover-Red + Grass, for hay (mature)",ton,2000,8.6,1.776,0.25,0
-202,"Clover-Red + Grass, for hay (mid bloom)",ton,2000,10.8,2.656,0.23,1.59
-203,"Clover-Red + Timothy, for hay",ton,2000,9.6,0,0.17,1.52
-204,"Clover-Red, for green chop",ton,2000,77.5,2.921061225,0.29372449,2.401632653
-205,"Clover-Red, for green chop (early bloom)",ton,2000,80.15,3.104,0.38,2.49
-206,"Clover-Red, for green chop (full bloom)",ton,2000,73.58,2.374716484,0.284917582,1.964505494
-207,"Clover-Red, for green chop (late vegetative)",ton,2000,75,3.4,0,0
-208,"Clover-Red, for green chop (mid bloom)",ton,2000,74.27,2.424986301,0.284863014,1.98
-209,"Clover-Red, for hay",ton,2000,13.95,2.507601359,0.261625142,1.887157418
-210,"Clover-Red, for hay (early bloom)",ton,2000,12.53,2.394049187,0.309455165,1.909551646
-211,"Clover-Red, for hay (full bloom)",ton,2000,13.55,2.42703689,0.249455165,1.859701097
-212,"Clover-Red, for hay (late vegetative)",ton,2000,15,3.35,0,0
-213,"Clover-Red, for hay (mature)",ton,2000,8.8,1.936,0.21,1.7
-214,"Clover-Red, for hay (mid bloom)",ton,2000,11.7,2.458049187,0.279455165,1.553034431
-215,"Clover-Red, for seed",cwt,100,12.23,5.892571429,0.61,0
-216,"Clover-White, for green chop",ton,2000,81.9,4.255685393,0.473904494,2.221207865
-217,"Clover-White, for green chop (full bloom)",ton,2000,82.1,4.528,0.44,0
-218,"Clover-White, for hay",ton,2000,9.73,3.089409091,0.352045455,2.25
-219,"Clover-White, for hay (full bloom)",ton,2000,7.6,3.216,0,0
-220,"Clover-White, for hay (late bloom)",ton,2000,12.4,2.768,0,0
-221,"Clover-White, for hay (mature)",ton,2000,7.8,2.256,0,0
-222,"Clover-White-Ladino type + Grass, for green chop",ton,2000,80,2.8,0.4,0
-223,"Clover-White-Ladino type + Grass, for green chop (early bloom)",ton,2000,80,2.448,0,0
-224,"Clover-White-Ladino type + Grass, for hay",ton,2000,11.25,2.918278596,0.227587769,1.962627407
-225,"Clover-White-Ladino type + Grass, for hay (mature)",ton,2000,8.5,1.808,0.22,1.75
-226,"Clover-White-Ladino type + Timonth, for silage",ton,2000,70.6,3.168,0.2,2.22
-227,"Clover-White-Ladino type, for green chop",ton,2000,80.94,3.953580723,0.410421687,1.94936747
-228,"Clover-White-Ladino type, for green chop (early bloom)",ton,2000,64.6,0,0.31,3.17
-229,"Clover-White-Ladino type, for hay",ton,2000,10.82,3.324152957,0.323149297,2.431145251
-230,"Clover-White-Ladino type, for hay (early bloom)",ton,2000,7.57,3.52959276,0.31,0
-231,"Clover-White-Ladino type, for hay (mature)",ton,2000,8.9,2.528,0.25,2.16
-232,"Coconut, for meat",lb of fruit ,1,46.99,1.005093379,0.213167327,0.671571402
-233,"Coconut, for milk",lb of fruit ,1,67.62,1.131562693,0.308832613,0.812229771
-234,"Corn-Field, for grain (shelled, yellow dent, grade #1)",bu,56,13.52,1.637313016,0.312586636,0.344444444
-235,"Corn-Field, for silage (dough stage)",ton,2000,71.2,1.2356,0.185,1.04
-236,"Corn-Field, for silage (mature)",ton,2000,70.08,1.295144928,0.378405797,1.035652174
-237,"Corn-Field, for silage (milk stage)",ton,2000,76.87,1.418666667,0.24,1.465
-238,"Corn-Field, for stover (yield less than 95 bu/acre, mature, without ear, dry)",lb stover/bu grain,56,13.3,0.983381898,0.099834437,1.503647903
-239,"Corn-Field, for stover (yield more than 95 bu/acre, mature, without ear, dry)",lb stover/bu grain,70,13.3,0.983381898,0.099834437,1.503647903
-240,"Corn-Popcorn, for grain",bu,50,10.1,2.047111111,0.328055556,0
-241,"Corn-Popcorn, for stover (mature, without ear, dry)",lb stover/bu grain,56,12.73,0.969842531,0.099779249,1.521530537
-242,"Corn-Sweet, for ears with husk (immature)",lb of fruit ,1,64.85,1.611439153,0,0
-243,"Corn-Sweet, for grain (dry)",lb of caryopsis,1,9.07,2.005333333,0.383333333,0
-244,"Corn-Sweet, for stover (without ear and husk, immature)",ton,2000,76.54,1.202660465,0,0
-245,"Corn-Sweet, for stover (without ear and husk, mature, very dry)",lb stover/bu grain,56,9.4,1.037527594,0.099337748,1.644591612
-246,"Cotton, for lint without seed or cotton lint",lb of seed,1,9,0.196,0,0
-247,"Cotton, for seed with lint or seed cotton",lb of seed and lint,1,7.8,3.296,0.41,0.49
-248,"Cotton, for seed without lint",lb of seed,1,8.38,3.770842503,0.734516361,1.179137001
-249,"Cotton, for stalks (dry)",lb straw/lb seed cotton,1,7.7,0.985915493,0,0
-250,"Cowpea, for hay",ton,2000,9.6,2.966387597,0.323427464,2.39
-251,"Cowpea, for seed",lb of seed,1,10.65,4.134561798,0.526713483,1.327668539
-252,"Cowpea, for straw",lb straw/lb seed,1.35,8.94,1.126869749,0,0
-253,Crabapple,lb of fruit,1,78.94,0.303893637,0.071225071,0.921177588
-254,Cranberry,lb of fruit ,1,86.54,0.46359584,0.066864785,0.527488856
-255,"Cucumber, for fruit",lb of fruit ,1,95.5,2.5,0.525,4.25
-256,Cup plant,ton,2000,71,3,0.05,3
-257,Currant-European black,lb of fruit ,1,81.96,1.241685144,0.327050998,1.784922395
-258,Currants-Red & White,lb of fruit ,1,83.95,1.395638629,0.274143302,1.713395639
-259,Custard-Apple,lb of fruit,1,71.5,0.954385965,0.073684211,1.340350877
-260,"Date palm, for fruit",lb of fruit ,1,22.5,0.406709677,0.051612903,0.842580645
-261,"Eggplant, for fruit",lb of fruit ,1,93,2.514285714,0.313571429,3
-262,Elderberry,lb of fruit ,1,79.8,0.522772277,0.193069307,1.386138614
-263,"Elephantgrass, for silage",ton,2000,74.7,0.768,0.31,0
-264,"Elephantgrass, for silage (mature)",ton,2000,70.45,0.682547264,0.3,3.18
-265,"Elephantgrass, for silage (vegetative)",ton,2000,79.8,0.888174204,0.44,2.32
-266,"Endive (Chicory), for immature leaf",lb of leaf,1,95,4.16,0.45,5.6
-267,"Escarole, for leaf",lb of leaf,1,94,3.2,0.233333333,4
-268,"Fescue, for green chop",ton,2000,64,1.161777778,0.25,0
-269,"Fescue, for green chop (early bloom)",ton,2000,71,2.36,0.37,1.92
-270,"Fescue, for green chop (early vegetative)",ton,2000,73.9,2.752,0.4,2.13
-271,"Fescue, for green chop (late bloom)",ton,2000,64,1.536,0,0
-272,"Fescue, for green chop (mature)",ton,2000,64,1.072,0,0
-273,"Fescue, for green chop (over ripe)",ton,2000,64,0.608,0.11,0.9
-274,"Fescue, for hay",ton,2000,10,1.511111111,0,0
-275,"Fescue, for hay (early bloom)",ton,2000,11.95,1.776,0.24,1.7
-276,"Fescue, for hay (early vegetative)",ton,2000,9,1.984,0.36,2.3
-277,"Fescue, for hay (late vegetative)",ton,2000,7.3,2.896,0.34,2
-278,"Fescue-Meadow, for hay",ton,2000,11.6,1.194570136,0,0
-279,"Fescue-Tall, for green chop",ton,2000,70.5,2.336,0.37,0
-280,"Fescue-Tall, for green chop (early bloom)",ton,2000,71.4,2.672,0.37,0
-281,"Fescue-Tall, for green chop (early bloom) (Pacific coast)",ton,2000,71.4,2.176,0,0
-282,"Fescue-Tall, for green chop (early vegetative)",ton,2000,73.2,3.376,0.39,4.48
-283,"Fescue-Tall, for green chop (full bloom) (Pacific coast)",ton,2000,75,1.44,0,0
-284,"Fescue-Tall, for green chop (late vegetative)",ton,2000,73.7,3.218,0.39,0
-285,"Fescue-Tall, for green chop (late vegetative) (Pacific coast)",ton,2000,76.1,2.896,0,0
-286,"Fescue-Tall, for green chop (mature)",ton,2000,75,1.1,0.25,1.82
-287,"Fescue-Tall, for green chop (mature) (Pacific coast)",ton,2000,75,1.072,0,0
-288,"Fescue-Tall, for green chop (mid bloom)",ton,2000,75,1.7,0.29,2.06
-289,"Fescue-Tall, for green chop (mid bloom) (Pacific coast)",ton,2000,75,1.68,0,0
-290,"Fescue-Tall, for green chop (Pacific coast)",ton,2000,70.5,1.856,0,0
-291,"Fescue-Tall, for hay (early bloom)",ton,2000,8,3.144,0.26,1.96
-292,"Fescue-Tall, for hay (early vegetative)",ton,2000,7.9,3.248,0.51,2.36
-293,"Fescue-Tall, for hay (full bloom)",ton,2000,8.4,2.312,0.32,2.36
-294,"Fescue-Tall, for hay (full bloom) (Pacific coast)",ton,2000,8.4,0.752,0,0
-295,"Fescue-Tall, for hay (late vegetative)",ton,2000,15,3.062,0,0
-296,"Fescue-Tall, for hay (late vegetative) (Pacific coast)",ton,2000,4.4,2.144,0.24,0
-297,"Fescue-Tall, for hay (mature)",ton,2000,12.5,1.714666667,0.3,1.96
-298,"Fescue-Tall, for hay (mid bloom)",ton,2000,11.4,2.174666667,0.29,2.06
-299,"Fescue-Tall, for hay (over ripe)",ton,2000,8,1.448,0,0
-300,"Fescue-Tall, for hay (Pacific coast)",ton,2000,11,1.392,0.24,0
-301,Fig,lb of fruit ,1,79.11,0.57443753,0.067017712,1.110579225
-302,"Filbert or Hazelnut, dry",lb of nut,1,5.42,2.205963206,0.329879467,0.470501163
-303,"Flax, for seed",bu,56,6.14,3.703563326,0.566092751,0.844072495
-304,"Flax, for straw",lb straw/bu grain,80,6.94,1.112342909,0.084439655,1.741422414
-305,"Gamagrass-Eastern, for hay (inflorescence to anthesis, cut 1)",ton,2000,10.85,1.996,0.265,2.02
-306,"Gamagrass-Eastern, for hay (seed ripening, cut 1)",ton,2000,10.85,1.685,0.265,2.02
-307,"Gamagrass-Eastern, for hay (vegetative, cut>1)",ton,2000,10.85,1.69212,0.395,2.64
-308,"Gamagrass-Eastern, for hay (boot, cut 1)",ton,2000,10.85,2.28,0.265,2.02
-309,"Gamagrass-Eastern, for hay (maturity, cut 1)",ton,2000,10.85,1.51,0.095,3.06
-310,Garlic,lb of fruit ,1,61,2.625641026,0.44,1.384615385
-311,Ginkgo Nut or Maidenhair Tree Nut,lb of fruit,1,55.2,1.542857143,0.276785714,1.138392857
-312,Gooseberry,lb of fruit ,1,87.87,1.16075845,0.222588623,1.632316571
-313,Grape-American type,lb of fruit,1,80.65,0.569518717,0.053475936,1.021390374
-314,Grape-European type,lb of fruit,1,80.28,0.571604938,0.066872428,0.951646091
-315,Grapefruit-Pink & Red (all areas),lb of fruit ,1,91.38,1.020881671,0.104408353,1.496519722
-316,Grapefruit-Pink & Red (California & Arizona),lb of fruit ,1,89.31,0.748362956,0.112254443,1.375116932
-317,Grapefruit-Pink & Red (Florida),lb of fruit ,1,91.56,1.042654028,0.106635071,1.504739337
-318,"Grapefruit-Pink, Red, & White (all areas)",lb of fruit ,1,90.89,1.1064764,0.087815587,1.525795829
-319,Grapefruit-White (all areas),lb of fruit ,1,90.48,1.159663866,0.084033613,1.554621849
-320,Grapefruit-white (California),lb of fruit ,1,89.58,1.351247601,0.115163148,1.372360845
-321,Grapefruit-white (Florida),lb of fruit ,1,90.76,1.090909091,0.075757576,1.623376623
-322,"Grass + Clover-Red, for hay",ton,2000,11.6,2.272,0.23,1.42
-323,"Grass + Clover-Red, for hay (full bloom)",ton,2000,11.3,2.528,0,0
-324,"Grass + Clover-Red, for hay (mature)",ton,2000,8.6,1.776,0.25,0
-325,"Grass + Clover-Red, for hay (mid bloom)",ton,2000,10.8,2.656,0.23,1.59
-326,"Grass + Clover-White-Ladino type, for green chop",ton,2000,80,2.8,0.4,0
-327,"Grass + Clover-White-Ladino type, for green chop (early bloom)",ton,2000,80,2.448,0,0
-328,"Grass + Clover-White-Ladino type, for hay",ton,2000,11.25,2.918278596,0.227587769,1.962627407
-329,"Grass + Clover-White-Ladino type, for hay (mature)",ton,2000,8.5,1.808,0.22,1.75
-330,"Grass, for green chop",ton,2000,72.5,2.503933571,0.256761566,1.969584816
-331,"Grass, for green chop (early bloom)",ton,2000,71.8,1.644813853,0.228636364,1.330584416
-332,"Grass, for green chop (mature)",ton,2000,52.1,0.977023697,0.05,0
-333,"Grass, for hay",ton,2000,10.9,1.518606742,0.218988764,1.449578652
-334,"Grass, for hay (early bloom)",ton,2000,10.6,0,0.28,0
-335,"Grass, for hay (full bloom)",ton,2000,10.85,1.536,0.24,1.34
-336,"Grass, for hay (mature)",ton,2000,9.57,0.842666667,0.16,0
-337,"Grass, for silage, (early bloom)",ton,2000,75.1,1.84,0.32,1.88
-338,Groundcherry,lb of fruit,1,85.4,2.082191781,0.273972603,0
-339,"Guar, for green chop (mature)",ton,2000,80.8,1.904,0.16,1.91
-340,"Guar, for green chop (pre bloom)",ton,2000,80.8,2.56,0,0
-341,"Guar, for green chop (vegetative)",ton,2000,81,2.336,0.17,1.92
-342,"Guar, for hay",ton,2000,8.05,2.664,0,0
-343,Guava-Common,lb of fruit ,1,86.1,0.943884892,0.179856115,2.043165468
-344,Guava-Strawberry,lb of fruit ,1,80.66,0.47983454,0.139607032,1.509824199
-345,Hickory Nut (dry),lb of nut,1,2.65,2.090600925,0.345146379,0.447868516
-346,Jackfruit,lb of fruit,1,72.23,0.846957148,0.129636298,1.09110551
-347,Java-plum,lb of fruit,1,83.13,0.682868998,0.100770599,0.4682869
-348,"Jojoba, for seed",lb of seed,1,4.9,2.368,0,0
-349,Jujube-Common,lb of fruit,1,77.86,0.867208672,0.103884372,1.129177958
-350,"Kale, for leaf",lb of leaf,1,85,3.52,0.373333333,2.666666667
-351,"Kale, for green chop",lb of leaf,1,88.53,3.398779661,0.529491525,3.03
-352,Kiwi,lb of fruit ,1,83.05,0.934513274,0.235988201,1.958702065
-353,Kohlrabi,lb of stem,1,91,3.022222222,0.511111111,3.888888889
-354,Kumquat,lb of fruit ,1,81.7,0.786885246,0.103825137,1.065573771
-355,Leek,lb of fruit ,1,83,1.411764706,0.205882353,1.058823529
-356,Lemon,lb of fruit ,1,87.2,1.511904762,0.119047619,1.150793651
-357,"Lentil-Common, for seed",lb of seed,1,11.33,4.362666667,0.426666667,0.856666667
-358,"Lespedeza-Korean, for hay (early bloom)",ton,2000,6.1,2.448,0,0
-359,"Lespedeza-Korean, for hay (full bloom)",ton,2000,9,2.288,0.24,0.96
-360,"Lespedeza-Korean, for hay (pre bloom)",ton,2000,13,1.984,0,0
-361,"Lespedeza-Korean, for hay (vegetative)",ton,2000,9.6,2.544,0.21,1.05
-362,"Lespedeza-Sericea, for hay",ton,2000,10,2.221865471,0.248318386,1.099327354
-363,"Lespedeza-Sericea, for hay (cut 2)",ton,2000,8.6,2.304,0.23,1.01
-364,"Lespedeza-Sericea, for hay (cut 3)",ton,2000,8.2,2.416,0.23,0.93
-365,"Lespedeza-Sericea, for hay (early bloom)",ton,2000,5.4,2.752,0.26,0.69
-366,"Lespedeza-Sericea, for hay (full boom)",ton,2000,5.6,2.432,0.22,0
-367,"Lespedeza-Sericea, for hay (mid bloom)",ton,2000,7.2,2.704,0,0
-368,"Lespedeza-Sericea, for hay (vegetative)",ton,2000,5.8,2.976,0.27,0.99
-369,"Lespedeza-Sericea, for seed",ton,100,7.7,5.807575298,0,0
-370,"Lespedeza-Striate, for hay",ton,2000,11,2.496,0.29,1.37
-371,"Lespedeza-Striate, for hay (early bloom)",ton,2000,9,2.608,0.24,1.1
-372,"Lespedeza-Striate, for hay (full bloom)",ton,2000,10.87,2.264,0.206666667,1.036666667
-373,"Lespedeza-Striate, for hay (mid bloom)",ton,2000,8,2.016,0.183333333,1.033333333
-374,"Lespedeza-Striate, for hay (pre bloom)",ton,2000,11.07,2.56,0.266666667,1.213333333
-375,"Lettuce-Butterhead or Curled, for leaf",lb of leaf,1,96,4.8,0.775,6.75
-376,"Lettuce-Chrisphead or Iceberg or Great Lakes, for leaf",lb of leaf,1,95,2.56,0.5,2
-377,"Lettuce-Head, for head",lb of leaf,1,94.8,3.81,0.48,4.52
-378,"Lettuce-Romaing or Cos, for leaf",lb of leaf,1,94,4.266666667,0.75,6.666666667
-379,Lime,lb of fruit ,1,88.26,0.954003407,0.153321976,0.868824532
-380,Longan,lb of fruit,1,82.75,1.215072464,0.12173913,1.542028986
-381,Loquat,lb of fruit,1,86.73,0.518462698,0.203466466,2.004521477
-382,Lychee Nut,lb of fruit ,1,81.76,0.728070175,0.16995614,0.9375
-383,Macadamia Nut (dry),lb of nut,1,2.88,1.36738056,0.140032949,0.378912685
-384,Mammee apple,lb of fruit,1,86.2,0.579710145,0.079710145,0.34057971
-385,Mango,lb of fruit ,1,81.71,0.446145435,0.060142154,0.852925096
-386,Melon-Canteloupe,lb of fruit ,1,89.89,1.488845401,0.362113503,3.161741683
-387,Melon-Casaba,lb of fruit ,1,92,1.5,0.0875,2.625
-388,Melon-Honeydew,lb of fruit ,1,88.33,0.909745574,0.164801369,2.579675644
-389,Melon-Waternelon,cwt,100,90.84,1.113580683,0.112002356,1.333156655
-390,"Millet-Foxtail, for grain",bu,50,10.62,2.1127641,0.343616723,0.349307894
-391,"Millet-Foxtail, for green chop and silage (late bloom)",ton,2000,72.45,1.594131488,0.18150519,1.94
-392,"Millet-Foxtail, for hay",ton,2000,7,1.582795699,0,0
-393,"Millet-Foxtail, for straw",ton,2000,10.67,0.673925926,0,1.6
-394,"Millet-Pearl, for grain",bu,50,10.1,2.216,0.375,0.39
-395,"Millet-Pearl, for green chop and silage (milk to soft dough stage)",ton,2000,78.4,1.544,0.26,1.63
-396,"Millet-Pearl, for hay",ton,2000,10.1,1.601779755,0,0
-397,"Millet-Pearl, for straw",lb straw/lb grain,1.55,10,0.677777778,0,1.6
-398,"Millet-Proso, for grain",bu,56,9.9,2.080332743,0.335464602,0.478554572
-399,"Millet-Proso, for straw",lb straw/bu grain,84.5,10,0.677777778,0,1.6
-400,"Mustard, for seed",cwt,100,4.1,3.837330553,0,0
-401,"Mint, for hay (mature)",ton,2000,12.27,2.336,0.22,0
-402,Mulberry,lb of fruit,1,87.68,1.87012987,0.308441558,1.574675325
-403,Mungbean,lb of seed,1,10.23,4.117333333,0.4,1.326666667
-404,Mushroom,lb of fruit ,1,92,5.8,1.125,4
-405,"Mustard, for greens (immature leaf)",lb of leaf,1,91,4.8,0.5,3.777777778
-406,"Mustard, for hay",ton,2000,17.5,2.832,0,0
-407,Natalgrass for hay,ton,2000,7.5,0.64,0.345945946,0
-408,Nectarine,lb of fruit ,1,86.28,1.096209913,0.116618076,1.545189504
-409,"Oat, for grain (not including Pacific Coast)",bu,32,10.67,2.093241724,0.381844621,0.464179601
-410,"Oat, for grain (Pacific coast)",bu,32,8.87,1.587649123,0.335,0.42
-411,"Oat, for green chop",ton,2000,78.9,2.12,0.24,1.89
-412,"Oat, for green chop (boot to early bloom)",ton,2000,73.97,1.97593985,0.339448622,1.879899749
-413,"Oat, for green chop (dough stage)",ton,2000,70.93,0,0.253333333,1.933333333
-414,"Oat, for green chop (full bloom)",ton,2000,67.8,0,0.31,2.07
-415,"Oat, for green chop (mature)",ton,2000,72,1.43542857,0.282857145,0
-416,"Oat, for green chop (vegetative)",ton,2000,83.68,2.886921987,0.473532241,0
-417,"Oat, for hay",ton,2000,10.24,1.373104523,0.237019425,1.260527809
-418,"Oat, for hay (dough stage)",ton,2000,9.1,1.456,0.203333333,1.53
-419,"Oat, for hay (early bloom)",ton,2000,10.9,1.536,0,0
-420,"Oat, for hay (full bloom)",ton,2000,14.2,1.472,0.35,2.41
-421,"Oat, for hay (mature)",ton,2000,8.65,1.232,0.23,0
-422,"Oat, for hay (milk stage)",ton,2000,12.1,1.336,0.2,0
-423,"Oat, for hay (vegetative)",ton,2000,9.9,2.208,0.43,0
-424,"Oat, green chop (milk stage)",ton,2000,73.43,1.450586466,0.339172932,2.149849624
-425,"Oat, straw (not including Pacific coast)",lb straw/bu grain,44.5,9.68,0.706193318,0.085055679,2.389292873
-426,"Oat, straw (Pacific Coast)",lb straw/bu grain,44.5,10.2,0.734966592,0.100222717,2.227171492
-427,"Oatgrass-Tall, for hay",ton,2000,8.1,1.63656148,0,0
-428,Ohelogerrie,lb of fruit,1,92.3,0.78961039,0.12987013,0.493506494
-429,Okra,lb of leaf,1,88,2.666666667,0.525,2.333333333
-430,Okra-Chinese,lb of leaf,1,93,2.742857143,0.457142857,0
-431,Onion-Dry (bulb),lb of fruit ,1,90,2.2,0.26,0
-432,Onion-Dry (bulb) cultivar 'Southport White Globe',lb of fruit ,1,86,1.714285714,0.307142857,1.285714286
-433,Onion-Dry (bulb) cultivar 'Sweet Spanish',lb of fruit ,1,90,0.8,0.27,1.2
-434,Onion-Green (bulb),lb of fruit ,1,90,2.08,0.43,1.2
-435,Onion-Green (leaf),lb of leaf,1,92,4,0.375,2.75
-436,Orange (all commercial varieties),lb of fruit ,1,84.24,1.182515723,0.12048218,1.366037736
-437,Orange (Florida),lb of fruit ,1,87.14,0.870917574,0.093312597,1.314152411
-438,Orange (with peel),lb of fruit ,1,82.3,1.175141243,0.124293785,1.107344633
-439,Orange-Navel (California),lb of fruit ,1,86.81,1.249431387,0.144048522,1.349507202
-440,Orange-Valencia (California),lb of fruit ,1,86.34,1.218155198,1.244509517,1.310395315
-441,"Orchardgrass + Alfalfa, for hay",ton,2000,9.7,2.479714286,0.267857143,0
-442,"Orchardgrass + Alfalfa, for hay (cut 1)",ton,2000,7.95,2.144,0.2,1.49
-443,"Orchardgrass, for green chop",ton,2000,74.13,2.368,0.175,2.635
-444,"Orchardgrass, for green chop (mature)",ton,2000,9.6,1.056,0,0
-445,"Orchardgrass, for green chop (mid bloom)",ton,2000,72.2,1.537631653,0.202377049,2.09
-446,"Orchardgrass, for green chop (pre bloom)",ton,2000,73.16,2.304655216,0.411997486,3.42
-447,"Orchardgrass, for hay",ton,2000,10.83,1.714403608,0.253232807,2.798649944
-448,"Orchardgrass, for hay (mature)",ton,2000,10.45,1.254326304,0.25,3.69
-449,"Orchardgrass, for hay (mid bloom)",ton,2000,9.5,1.696,0.45,2.05
-450,"Orchardgrass, for hay (pre bloom)",ton,2000,12.48,2.393352614,0.46134594,3.823743048
-451,"Orchardgrass, for hay (vegetative)",ton,2000,9.83,1.438401776,0.336592675,3.825
-452,Papaya,lb of fruit ,1,88.83,0.873769024,0.044762757,2.30080573
-453,Parsley,lb of leaf,1,90,3.52,0.4,2.7
-454,Parsnip,lb of leaf,1,81,1.010526316,0.363157895,1.736842105
-455,"Passion-Fruit, (purple)",lb of fruit,1,72.93,1.300332471,0.251200591,1.285555966
-456,"Pea, for straw",ton,2000,13.5,1.530666667,0,0
-457,"Pea, for vine (without pods)",ton,2000,75,2,0,0
-458,Peach (without skin),lb of fruit ,1,87.83,0.953808752,0.097244733,1.59643436
-459,"Pea-Chinese, for immature pod with seeds",lb of fruit ,1,88,3.733333333,0.441666667,1.416666667
-460,"Pea-English, for seed (immature seed)",lb of seed,1,79,4.495238095,0.523809524,1.238095238
-461,"Pea-Field, for hay",ton,2000,10.93,2.57420178,0.274977604,1.489888018
-462,"Pea-Field, for silage",ton,2000,73,2.256,0.29,1.4
-463,"Pea-Field, for seed (dry)",lb of seed,1,9.03,4.102871003,0.485316979,1.288902977
-464,"Pea-Field, for straw",lb straw/lb grain,0.588,11.2,1.335618625,0.110432373,1.198669623
-465,"Pea-Flat, for silage (early bloom)",ton,2000,73,4.22,0.37,2.22
-466,"Pea-Garden, for pod",lb of fruit ,1,87.1,2.24,0.23,1.4
-467,"Pea-Garden, for seed (dry)",cwt,100,10.45,4.258871003,0.477816979,1.053902977
-468,"Pea-Garden, for seed (immature seed)",lb of seed,1,79.5,4.347619048,0.546904762,1.238095238
-469,"Pea-Garden, for straw",ton,2000,11.2,1.335618625,0.110432373,1.198669623
-470,"Peanut, for fruit (pod with seeds)",lb of fruit,1,6.82,4.254759672,0.350230252,0.561076869
-471,"Peanut, for hay (dug and with nuts)",ton,2000,8.25,2.331043478,0.156521739,0.921956522
-472,"Peanut, for hay (dug and without nuts)",ton,2000,9.15,1.747002208,0.186743929,1.379845475
-473,"Peanut, for hay (mowed)",ton,2000,10.83,1.915489059,0.16,1.38
-474,"Peanut, for seed only",lb of seed,1,7.75,4.856613757,0.402116402,0
-475,"Peanut, for vine only",lb vine/lb fruit,1.38,9.45,1.643002208,0.143487859,1.379690949
-476,Pear,lb of fruit ,1,82.91,0.39271155,0.067943175,0.772081532
-477,"Pea-Shelling, for seed (immature seed)",lb of seed,1,79,4.495238095,0.523809524,1.238095238
-478,"Pea-Sugar, for immature pod with seeds",lb of fruit ,1,88,3.733333333,0.441666667,1.416666667
-479,Pecan (dry),lb of nut,1,15,2.8,0,0
-480,Pepper-Bell (green),lb of fruit ,1,92.5,2.178571429,0.377142857,2.142857143
-481,Pepper-Bell (red),lb of fruit ,1,91,1.422222222,0.311111111,2.222222222
-482,Pepper-Chili (green),lb of fruit ,1,86,2.285714286,0.328571429,1.857142857
-483,Pepper-Chili (red),lb of fruit ,1,84,2,0.28125,2.625
-484,Pepper-Pimiento,lb of fruit ,1,90,1.92,0.2,2.5
-485,Persimmon-Japanese,lb of fruit ,1,80.32,0.471544715,0.086382114,0.818089431
-486,Persimmons-Native,lb of fruit ,1,64.4,0.359550562,0.073033708,0.870786517
-487,Pineapple,lb of fruit ,1,86.5,0.462222222,0.051851852,0.837037037
-488,"Pistachio, for nuts (dry)",lb of nut,1,3.87,3.42536149,0.523249766,1.137001977
-489,Pitanga,lb of fruit,1,90.81,1.392818281,0.119695321,1.12078346
-490,Plantain,lb of fruit ,1,65.28,0.599078341,0.097926267,1.437211982
-491,Plum,lb of fruit ,1,85.2,0.854054054,0.067567568,1.162162162
-492,Pomegranate (without skin),lb of fruit ,1,80.97,0.798738833,0.042038886,1.361008933
-493,Potato-Irish for tuber,cwt,100,77.2,1.608220035,0.247037645,1.997419561
-494,"Potato-Irish, for vine",ton,2000,48.9,2.24,0.2,3.95
-495,"Prairie (Marsh), for hay",ton,2000,11.8,1.584,0.11,0.77
-496,"Prairie (Meadow), for hay (intermountain area)",ton,2000,6.5,1.328,0.16,0
-497,"Prairie, for hay (Colorado, Wyoming)",ton,2000,5.5,1.185185185,0,0
-498,"Prairie, for hay (Kansas, Oklahoma)",ton,2000,9.5,0.777900552,0.077348066,0
-499,"Prairie, for hay (Midwest, Minnesota, South Dakota)",ton,2000,10.3,1.054986425,0.132217195,1.08
-500,"Prairie, for hay (western, early cut)",ton,2000,9,1.296703297,0.208791209,1.076923077
-501,"Prairie, for hay (western, mature and weathered)",ton,2000,9.05,0.594272035,0.05632209,0
-502,"Prairie, for hay (western, mature)",ton,2000,8.1,0.761697497,0.087051143,0.794341676
-503,"Prairie, for hay (western, mid-season cut)",ton,2000,8.7,1.051478642,0.13143483,0
-504,Pricklypear (without skin),lb of fruit,1,87.55,0.93815261,0.192771084,1.767068273
-505,Pummelo (without skin),lb of fruit,1,89.1,1.11559633,0.155963303,1.981651376
-506,Pumpkin,lb of fruit ,1,90.67,2.585038462,0.393653846,2.779038462
-507,Quince,lb of fruit ,1,83.8,0.395061728,0.104938272,1.216049383
-508,"Radish, for root, cultivar 'Icicle'",lb of root,1,94,2.933333333,0.466666667,4.666666667
-509,"Radish, for root, cultivar 'Scarlet Globe'",lb of root,1,94,1.866666667,0.45,3.166666667
-510,"Radish-Chinese Winter, for root",lb of root,1,94,1.6,0.4,3.166666667
-511,Raspberry,lb of fruit ,1,86.57,1.084139985,0.089352197,1.13179449
-512,"Redtop, for green chop",ton,2000,73.57,2.032,0.38,2.196666667
-513,"Redtop, for hay",ton,2000,8.44,1.30737157,0.215376663,1.888991228
-514,"Redtop, for hay (full bloom)",ton,2000,7,1.504,0.35,1.69
-515,"Redtop, for hay (late vegetative)",ton,2000,8,2.208,0.15,2.39
-516,"Redtop, for hay (mature)",ton,2000,8.3,0.944,0,0
-517,"Redtop, for hay (mid bloom)",ton,2000,7.2,1.92,0,0
-518,"Rhubarb, for fruit",lb of fruit,1,93.61,2.253521127,0.219092332,4.507042254
-519,"Rhubarb, for leaf petiole",lb of leaf,1,92,1.4,0.25,4.5
-520,"Rice-Rough, for grain",cwt,100,11.33,1.386730857,0.286220466,0.453220721
-521,"Rice, for straw",lb straw/cwt grain,100,9.18,0.709101759,0.084112084,1.47722973
-522,Rose-apple,lb of fruit,1,93,1.371428571,0.114285714,1.757142857
-523,Roselle,lb of fruit,1,86.58,1.144560358,0.275707899,1.549925484
-524,Rutabaga,lb of root,1,90,1.92,0.41,2.2
-525,"Rye, for grain",bu,56,11.88,2.139235697,0.379510973,0.518784916
-526,"Rye, for green chop",ton,2000,79.6,2.842666667,0.376666667,3.12
-527,"Rye, for green chop (dough stage)",ton,2000,66.6,2.144,0.3,0
-528,"Rye, for green chop (mature)",ton,2000,76.6,1.392888889,0.256410256,0
-529,"Rye, for hay",ton,2000,7.38,1.213701516,0.218438996,1.237513691
-530,"Rye, for hay (dough stage)",ton,2000,6.9,1.68,0,0
-531,"Rye, for hay (mature)",ton,2000,9.1,1.296,0,0
-532,"Rye, for straw",lb straw/bu grain,87,9.07,0.504688814,0.09424569,0.969956897
-533,"Ryegrass-Perennial, for green chop",ton,2000,76.88,1.863127819,0.281578947,2.548646617
-534,"Ryegrass-Perennial, for green chop (early vegetative)",ton,2000,79.13,3.966666667,0.4,3.08
-535,"Ryegrass-Perennial, for green chop (late vegetative)",ton,2000,75,2,0,0
-536,"Ryegrass-Perennial, for green chop (mid bloom)",ton,2000,69.85,1.548,0,0
-537,"Ryegrass-Perennial, for hay",ton,2000,12.74,1.485349706,0.196247216,1.420227273
-538,"Ryegrass-Perennial, for hay (early vegetative)",ton,2000,8.6,2.24,0,0
-539,"Ryegrass-Perennial, for hay (late vegetative)",ton,2000,15,1.85,0,0
-540,"Ryegrass-Perennial, for hay (mature)",ton,2000,14.3,0.888,0.065,0
-541,"Ryegrass-Perennial, for hay (mid bloom)",ton,2000,15,1.3,0,0
-542,"Safflower, for seed",cwt,100,7.6,2.672859291,0.6,0.75
-543,"Saltgrass, for hay",ton,2000,10.77,1.424,0.1,0
-544,Sapodilla,lb of fruit,1,78,0.32,0.054545455,0.877272727
-545,Sapote,lb of fruit,1,62.43,0.902848017,0.074527549,0.915624168
-546,"Sesame, for seed",cwt,100,6.88,3.657367955,0.773623188,0.5
-547,"Smooth Brome + Alfalfa, for green chop",ton,2000,77.63,3.322074074,0.310555556,2.8
-548,"Smooth Brome + Alfalfa, for hay",ton,2000,11.58,2.41770852,0.271053812,1.897746637
-549,"Smooth Brome + Alfalfa, for hay (cut 1)",ton,2000,10.1,2.192,0.295,1.4
-550,"Smooth Brome + Alfalfa, for hay (cut 2)",ton,2000,10.2,2.192,0.21,0
-551,"Sorghum, for grain",bu,56,11.18,1.867377828,0.332736562,0.386734323
-552,"Sorghum, for green chop",ton,2000,76.85,1.368,0.24,2.51
-553,"Sorghum, for green chop (dough stage)",ton,2000,72.17,1.162666667,0.21,0
-554,"Sorghum, for green chop (mid bloom)",ton,2000,75.8,1.424,0.215,1.11
-555,"Sorghum, for green chop (milk stage)",ton,2000,74.95,1.184963855,0.193493976,1.521927711
-556,"Sorghum, for silage",ton,2000,71.6,1.012,0.21,1.11
-557,"Sorghum, for silage (dough stage)",ton,2000,73.9,0.968,0.2,1.11
-558,"Sorghum, for silage (early bloom)",ton,2000,71.9,0.992,0.2,1.11
-559,"Sorghum, for silage (mature)",ton,2000,66.1,1.2,0.2,1.11
-560,"Sorghum, for silage (milk state)",ton,2000,75.2,1.344,0.185,1.145
-561,"Sorghum, for stover",lb straw/bu grain,56,8.13,0.67210989,0.12896978,0.73
-562,"Sorghum/Sudangrass, for grain",bu,40,8.3,2.330666667,0,0
-563,"Sorghum/Sudangrass, for green chop",ton,2000,78.25,1.848,0.23,2.565
-564,"Sorghum/Sudangrass, for green chop (early bloom)",ton,2000,76.6,1.28,0.3,1.45
-565,"Sorghum/Sudangrass, for green chop (full bloom)",ton,2000,74.5,1.410666667,0.3,1.58
-566,"Sorghum/Sudangrass, for green chop (mature)",ton,2000,70,0.88,0.21,1.82
-567,"Sorghum/Sudangrass, for green chop (vegetative)",ton,2000,82.05,2.547333333,0.41,2.275
-568,"Sorghum/Sudangrass, for hay",ton,2000,7.83,1.779429778,0.291143963,2.15
-569,"Sorghum/Sudangrass, for silage",ton,2000,77,1.638,0.21,2.61
-570,"Sorghum/Sudangrass, for straw",ton,2000,9.6,1.312,0,0
-571,Soursop,lb of fruit,1,81.16,0.8492569,0.143312102,1.475583864
-572,"Soybean, for grain",bu,60,10.12,6.567758454,0.672763285,1.541666667
-573,"Soybean, for green chop",ton,2000,76.85,2.9395,0.282916667,0.919166667
-574,"Soybean, for green chop (early bloom)",ton,2000,80,2.55,0,0
-575,"Soybean, for green chop (full bloom)",ton,2000,82.27,2.934923077,0.288461538,1.057692308
-576,"Soybean, for green chop (mature)",ton,2000,75.8,2.644628099,0.289256198,0.867768595
-577,"Soybean, for green chop (mid bloom)",ton,2000,78.93,2.774923077,0.289487179,1.059230769
-578,"Soybean, for hay",ton,2000,10.66,2.571179594,0.244972726,1.105743473
-579,"Soybean, for hay (early bloom)",ton,2000,11.23,3.01669697,0.388787879,0
-580,"Soybean, for hay (full bloom)",ton,2000,11.7,2.24,0,0
-581,"Soybean, for hay (mature)",ton,2000,10.27,2.454363636,0.28469697,0.880909091
-582,"Soybean, for hay (mid-bloom)",ton,2000,7.1,2.44,0.27,0.97
-583,"Soybean, for immature seed",lb of seed,1,73,5.333333333,0.218518519,0.777777778
-584,"Soybean, for straw",lb straw/bu grain,96.75,11.07,0.832386256,0.058747657,0.572058493
-585,Spinach,lb of leaf,1,90.64,5.2056,0.556,5.6625
-586,Spinach-New Zealand,lb of leaf,1,94,4,0.466666667,2.166666667
-587,"Squash Straight neck, for immature fruit (summer)",lb of fruit ,1,94,2.666666667,0.466666667,3
-588,"Squash-Acorn, for mature fruit (winter)",lb of fruit ,1,86,0.914285714,0.257142857,3.714285714
-589,"Squash-Balsampear, for immature fruit (summer)",lb of fruit ,1,94,2.933333333,0.466666667,0
-590,"Squash-Butternut, for mature fruit (winter)",lb of fruit ,1,85,1.066666667,0.22,2.666666667
-591,"Squash-Chinese wintermelon, for mature fruit (winter)",lb of fruit ,1,96,0.8,0.175,5
-592,"Squash-Chinese, for immature fruit (summer)",lb of fruit ,1,94,2.666666667,0.383333333,0
-593,"Squash-Crockneck, for immature fruit (summer)",lb of fruit ,1,92,2.8,0.475,2.375
-594,"Squash-Hubbard, for mature fruit (winter)",lb of fruit ,1,88,2.666666667,0.175,2.666666667
-595,"Squash-Pink Banana, for mature fruit (winter)",lb of fruit ,1,91,3.555555556,0.422222222,3.666666667
-596,"Squash-Scallop, for immature fruit (summer)",lb of fruit ,1,93,2.742857143,0.514285714,2.142857143
-597,"Squash-Zucchini, for immature fruit (summer)",lb of fruit ,1,95,3.84,0.64,4.4
-598,Strawberry,lb of fruit ,1,91.28,1.253884935,0.213523132,1.96915777
-599,Sugar apple,lb of fruit,1,73.23,1.231228988,0.119536795,0.922674636
-600,"Sugarbeet, root with crown",ton,2000,80.3,1.342682927,0.243902439,1.524390244
-601,"Sugarbeet, root without crown",ton,2000,79.28,1.052,0.2175,1.543333333
-602,"Sugarbeet, top with crown",ton,2000,83.03,2.433333333,0.225,5.79
-603,"Sugarbeet, top without crown",ton,2000,82.1,2.457865169,0.224719101,5.786516854
-604,"Sugarcane, cane top + trash",ton,2000,73.83,0.866,0.235,2.96
-605,"Sugarcane, millable cane (less than 12 month crop)",ton,2000,35,0.088466667,0.020826667,0.229666667
-606,"Sugarcane, millable cane and trash (less than 12 month crop)",ton,2000,35,0.111,0.016,0.167
-607,"Sunflower, for seed (with hull, confection type)",cwt,100,7.36,3.130988604,0.619111111,0.733025641
-608,"Sunflower, for seed (with hull, oil type)",cwt,100,7.36,2.993186325,0.626388889,0.718782051
-609,"Sunflower, for stover (yield less than 500 lb/acre)",lb stover/cwt fruit,100,13.3,0.86,0.11,1.94
-610,"Sunflower, for stover (yield more than 500 lb/acre)",lb stover/cwt fruit,150,13.3,0.86,0.11,1.94
-611,"Sweet Potato, for root",lb of root,1,68.85,0.909181818,0.150984848,1.036767677
-612,"Sweet Potato, for vine",ton,2000,78.1,2.048,0,0
-613,"Sweetclover, for green chop",ton,2000,75,2.874,0.27,1.65
-614,"Sweetclover, for green chop (full bloom)",ton,2000,67.3,2.688,0.22,1.44
-615,"Sweetclover, for green chop (mid bloom)",ton,2000,70.8,2.688,0.24,1.44
-616,"Sweetclover, for green chop (pre bloom)",ton,2000,79.2,3.152,0.48,0
-617,"Sweetclover, for green chop (vegetative)",ton,2000,80.3,3.472,0.44,2.95
-618,"Sweetclover, for hay",ton,2000,10.42,2.649712335,0.236055109,1.652559913
-619,"Sweetclover, for hay (early bloom)",ton,2000,17.4,2.768,0,0
-620,"Sweetclover, for hay (full bloom)",ton,2000,11.1,2.064,0,0
-621,"Sweetclover, for hay (mature)",ton,2000,8.95,1.824,0.185,0.8
-622,"Sweetclover, for hay (vegetative)",ton,2000,9.8,2.576,0.295,1.78
-623,"Sweetclover, for seed",cwt,100,7.8,6.490950109,0,0
-624,"Sweetclover, for silage",ton,2000,70.7,2.857055928,0.21,1.955
-625,"Sweetclover, for silage (early bloom)",ton,2000,72.8,3.424,0.25,1.95
-626,"Sweetclover, for silage (full bloom)",ton,2000,68.6,2.992,0.235,1.695
-627,"Sweetclover, for silage (pre bloom)",ton,2000,65.2,3.44,0.25,1.95
-628,"Switchgrass, for green chop",ton,2000,44.85,0.944,0.09,0
-629,"Switchgrass, for green chop ( mature)",ton,2000,58.07,0.81631746,0.15,1.97
-630,"Switchgrass, for green chop (full bloom)",ton,2000,60.4,1.008,0.12,0
-631,"Switchgrass, for green chop (over ripe)",ton,2000,23.3,0.304,0.05,0
-632,"Switchgrass, for green chop (vegetative)",ton,2000,67.27,1.642805195,0.215,2.85
-633,Tamarind,lb of fruit,1,31.4,0.653061224,0.164723032,0.915451895
-634,Tangerine,lb of fruit ,1,87.6,0.812903226,0.080645161,1.266129032
-635,"Taro, for corm",lb of corm,1,72,0.864,0.265,0
-636,"Taro-Pink, for corm",lb of corm,1,80,0.8,0.535,2.5
-637,"Taro-White, for corm",lb of corm,1,82,1.777777778,0.333333333,3.944444444
-638,"Timothy + Alfalfa, for green chop (50% alfalfa)",ton,2000,78.08,3.364748858,0.368824201,2.239360731
-639,"Timothy + Alfalfa, for hay",ton,2000,10.37,2.172886905,0.211071429,2.16
-640,"Timothy + Alfalfa, for hay (cut 1)",ton,2000,9.8,1.792,0.14,0
-641,"Timothy + Alfalfa, for hay (cut 2)",ton,2000,9,2.8,0.21,0
-642,"Timothy + Clover, for hay",ton,2000,11.1,1.488,0.17,1.81
-643,"Timothy + Clover-Red, for hay",ton,2000,9.6,0,0.17,1.52
-644,"Timothy + Clover-White-Ladino type, for silage",ton,2000,70.6,3.168,0.2,2.22
-645,"Timothy, for green chop",ton,2000,72.4,2.048,0.38,2.09
-646,"Timothy, for green chop (early to mid bloom)",ton,2000,73.05,1.578,0.3,2.06
-647,"Timothy, for green chop (late bloom)",ton,2000,73.65,1.065,0.21,1.68
-648,"Timothy, for green chop (mature)",ton,2000,69.6,0.963,0.18,1.57
-649,"Timothy, for green chop (vegetative)",ton,2000,74.45,2.406,0.43,2.54
-650,"Timothy, for hay",ton,2000,9.48,1.200544551,0.167447757,1.629129214
-651,"Timothy, for hay (full bloom)",ton,2000,12.2,1.205213483,0.233679775,1.826348315
-652,"Timothy, for hay (mature)",ton,2000,13.08,0.952264045,0.169513109,1.588089888
-653,"Timothy, for hay (mid bloom)",ton,2000,11.96,1.540957303,0.221488764,1.82
-654,"Timothy, for hay (pre bloom)",ton,2000,12.28,2.052714607,0.4,3.05
-655,"Timothy, for hay (vegetative)",ton,2000,13.65,2.25,0.34,1.9
-656,"Timothy, for silage",ton,2000,66.7,1.697070119,0.290315534,1.685711974
-657,"Timothy, for silage (boot)",ton,2000,66.3,1.5,0.24,1.59
-658,"Timothy, for silage (early bloom)",ton,2000,63.7,1.632,0.29,1.69
-659,"Timothy, for silage (full bloom)",ton,2000,64.3,1.552,0.29,1.69
-660,"Timothy, for silage (milk stage)",ton,2000,58.5,1.344,0.29,1.69
-661,"Timothy, for silage (pre bloom)",ton,2000,73.1,1.92,0.29,1.69
-662,"Timothy, for silage (vegetative)",ton,2000,70.3,1.872,0.32,1.69
-663,"Tobacco-Air cured, Burley type",cwt,100,25,4,0.312,3.86
-664,"Tobacco-Air cured, Havana Seed type",cwt,100,78.5,3.85,0.173,2.9
-665,"Tobacco-Air cured, Maryland Broadleaf  type",cwt,100,18,3.1,0,0
-666,Tobacco-Flue-cured,cwt,100,20,2.133,0.2725,1.989
-667,Tomato,lb of fruit ,1,94,2.558023392,0.471052632,4.278701754
-668,"Trefoil-Birdsfoot, for green chop",ton,2000,80.13,3.162666667,0.24,2.786666667
-669,"Trefoil-Birdsfoot, for green chop (early bloom)",ton,2000,75,3.2,0,0
-670,"Trefoil-Birdsfoot, for green chop (mid bloom to full bloom)",ton,2000,78,2.63,0.27,2.98
-671,"Trefoil-Birdsfoot, for hay",ton,2000,9.97,2.517333333,0.226666667,1.886666667
-672,"Trefoil-Birdsfoot, for hay (early bloom)",ton,2000,12.8,3.11,0,0
-673,"Trefoil-Birdsfoot, for hay (mid bloom to full bloom)",ton,2000,10.7,2.252,0,0
-674,"Triticale, for grain",bu,48,10.95,2.453661029,0.34,0.57
-675,"Turnip, for green chop",ton,2000,86.53,3.298,0.4225,3.015
-676,"Turnip, for green chop",lb of leaf,1,87.3,3.488,0.51,3
-677,"Turnip, for root",lb of root,1,91.06,2.242012903,0.318758961,2.732139785
-678,"Vetch, for seed",lb of seed,1,9.55,4.608,0.59,0
-679,"Vetch-Common, for green chop",ton,2000,79.7,2.983098039,0.331045752,2.5
-680,"Vetch-Common, for green chop (early bloom)",ton,2000,75,3.7,0.26,3.15
-681,"Vetch-Common, for green chop (full bloom)",ton,2000,75,3,0.35,2.51
-682,"Vetch-Common, for hay",ton,2000,12.2,2.596629214,0.359850187,2.238127341
-683,"Vetch-Common, for hay (early bloom)",ton,2000,16,3.552,0,0
-684,"Vetch-Common, for hay (full bloom)",ton,2000,14.7,2.938,0,0
-685,"Vetch-Hairy, for green chop (mid bloom)",ton,2000,78.25,3.754,0.33,2.25
-686,"Vetch-Hairy, for hay",ton,2000,12.1,3.679821555,0.35628692,2.228636364
-687,"Vetch-Hairy, for hay (vegetative)",ton,2000,11.5,3.616,0.36,2.09
-688,"Walnut-Black, for seed extracted from nut",lb of nut,1,4.36,4.073609369,0.485152656,0.547887913
-689,Walnut-English or Persian,lb of nut,1,3.65,2.373015049,0.329008822,0.521017125
-690,"Wheat, for green chop",ton,2000,73.55,2.336,0.31,0
-691,"Wheat, for green chop (milk stage)",ton,2000,73.4,1.92,0,0
-692,"Wheat, for hay",ton,2000,11.3,1.251017699,0.197278761,1.204026549
-693,"Wheat, for hay (dough stage)",ton,2000,17.45,1.28,0,0
-694,"Wheat, for hay (mature)",ton,2000,12.75,1.232,0.2,0
-695,"Wheat, for hay (milk stage)",ton,2000,15.7,1.456,0,0
-696,"Wheat-Bread-Hard Red Spring, for grain",bu,60,11.45,2.703995561,0.434650388,0.41
-697,"Wheat-Bread-Hard Red Winter, for grain",bu,60,11.68,2.303221477,0.434949664,0.486666667
-698,"Wheat-Bread-Soft Red Winter, for grain",bu,60,11.44,1.943870852,0.373778027,0.453333333
-699,"Wheat-Bread-Soft White Winter, for grain",bu,60,11.41,1.800168256,0.368823612,0.486666667
-700,"Wheat-Durum, for grain",bu,60,11.83,2.432,0.423333333,0.503333333
-701,"Wheatgrass, for green chop",ton,2000,55.4,1.392,0,0
-702,"Wheatgrass, for green chop (mature)",ton,2000,39.5,1.44,0,0
-703,"Wheatgrass, for green chop part (early bloom)",ton,2000,63.4,1.456,0,0
-704,"Wheatgrass, for hay",ton,2000,8.37,1.343486506,0.07,0
-705,"Wheatgrass, for hay (early bloom)",ton,2000,8,1.376,0.27,2.67
-706,"Wheatgrass, for hay (late bloom)",ton,2000,10.2,0.848,0,0
-707,"Wheatgrass, for hay (mature)",ton,2000,9.6,0.848,0.1,0
-708,"Wheatgrass-Bluebunch, for hay (over ripe)",ton,2000,11.1,0.544,0,0
-709,"Wheatgrass-Crested, for green chop",ton,2000,54.25,1.872,0.14,1.72
-710,"Wheatgrass-Crested, for green chop (early bloom)",ton,2000,62.4,1.541333333,0.18,0
-711,"Wheatgrass-Crested, for green chop (full bloom)",ton,2000,61.27,1.188437218,0.15,1.04
-712,"Wheatgrass-Crested, for green chop (mature)",ton,2000,44.7,1.000833333,0.145833333,1.04
-713,"Wheatgrass-Crested, for hay",ton,2000,7.85,1.528,0.15,0
-714,"Wheatgrass-Crested, for hay (early bloom)",ton,2000,13.03,1.904444444,0.27,0
-715,"Wheatgrass-Crested, for hay (full bloom)",ton,2000,12.55,1.396,0.16,0
-716,"Wheatgrass-Crested, for hay (mature)",ton,2000,10.6,0.776,0.09,0
-717,"Wheatgrass-Crested, for hay (mid bloom)",ton,2000,3.6,1.832,0,0
-718,"Wheatgrass-Intermediate, for hay",ton,2000,9.95,1.303407407,0.19,1.65
-719,"Wheatgrass-Slender, for hay",ton,2000,8.93,1.396740741,0.254166667,2.679444444
-720,"Wheatgrass-Slender, for hay (early bloom)",ton,2000,5.4,1.936,0,0
-721,"Wheatgrass-Slender, for hay (full bloom)",ton,2000,6.8,1.472,0,0
-722,"Wheatgrass-Slender, for hay (vegetative)",ton,2000,7.1,2.88,0,0
-723,"Wheatgrass-Tall, for hay",ton,2000,11,1.264,0,0
-724,"Wheatgrass-Thickspike, for hay",ton,2000,8,1.2,0,0
-725,"Wheatgrass-Western, for hay",ton,2000,10.85,1.376,0.25,0
-726,"Wheatgrass-Western, for hay (full bloom)",ton,2000,6.6,1.376,0,0
-727,"Wheatgrass-Western, for hay (mature)",ton,2000,10.1,0.736,0.08,0
-728,"Wheatgrass-Western, for hay (vegetative)",ton,2000,11.8,1.92,0.21,0
-729,"Wheat-Spelt, for grain",bu,40,10.17,2.128,0.42,0
-730,"Wheat-Spelt, for straw",lb straw/bu grain,80.475,17.25,0.528,0,0
-731,"Wheat-Spring including Durum, for straw",lb straw/bu grain,80.475,9.22,0.63895731,0.063898488,1.173574514
-732,"Wheat-Winter, for straw",lb straw/bu grain,92.475,9.22,0.63895731,0.063898488,1.173574514
-733,"Wildrice, for grain",lb of caryopsis,1,37.5,2.64432,0.4995,0.489
-734,"Wildrice, for straw",lb straw/lb grain,1.31,9.2,0.809,0.11,0.788
-735,Yam,lb of tuber,1,74,1.107692308,0.25,2.307692308
-736,Barbados Cherry,lb of fruit,1,91.41,0.745052387,0.128055879,1.699650757
+,State,Soil,Crop,Variety,Season,Available-N(kg/ha),Available-P(kg/ha),Available-K(kg/ha),Required-N(kg/ha),Required-P(kg/ha),Required-K(kg/ha),Yeild(q/ha)
+0,Andhra Pradesh,0,Rice,Mashuri,Kharif,150,5,150,115.0,144.0,52.0,50.0
+1,Andhra Pradesh,0,Rice,Mashuri,Kharif,150,5,150,133.0,144.0,60.0,55.0
+2,Andhra Pradesh,0,Rice,Mashuri,Kharif,175,10,200,102.0,128.0,42.0,50.0
+3,Andhra Pradesh,0,Rice,Mashuri,Kharif,175,10,200,121.0,128.0,50.0,55.0
+4,Andhra Pradesh,0,Rice,Mashuri,Kharif,200,15,250,90.0,112.0,33.0,50.0
+5,Andhra Pradesh,0,Rice,Mashuri,Kharif,200,15,250,108.0,112.0,40.0,55.0
+6,Andhra Pradesh,0,Rice,Mashuri,Kharif,225,20,300,77.0,96.0,23.0,50.0
+7,Andhra Pradesh,0,Rice,Mashuri,Kharif,225,20,300,96.0,96.0,31.0,55.0
+8,Andhra Pradesh,0,Rice,Mashuri,Kharif,250,25,350,65.0,80.0,14.0,50.0
+9,Andhra Pradesh,0,Rice,Mashuri,Kharif,250,25,350,83.0,80.0,22.0,55.0
+10,Andhra Pradesh,0,Rice,Mashuri,Kharif,275,30,400,52.0,64.0,4.0,50.0
+11,Andhra Pradesh,0,Rice,Mashuri,Kharif,275,30,400,71.0,65.0,12.0,55.0
+12,Andhra Pradesh,0,Rice,Mashuri,Kharif,300,35,450,40.0,49.0,3.0,50.0
+13,Andhra Pradesh,0,Rice,Mashuri,Kharif,300,35,450,58.0,49.0,10.0,55.0
+14,Andhra Pradesh,0,Rice,Mashuri,Kharif,325,40,500,27.0,33.0,2.0,50.0
+15,Andhra Pradesh,0,Rice,Mashuri,Kharif,325,40,500,46.0,33.0,10.0,55.0
+16,Andhra Pradesh,0,Rice,Mashuri,Kharif,350,45,550,14.0,17.0,2.0,50.0
+17,Andhra Pradesh,0,Rice,Mashuri,Kharif,350,45,550,33.0,17.0,10.0,55.0
+18,Andhra Pradesh,0,Rice,Mashuri,Kharif,375,50,600,2.0,15.0,2.0,50.0
+19,Andhra Pradesh,0,Rice,Mashuri,Kharif,375,50,600,21.0,15.0,10.0,55.0
+20,Andhra Pradesh,0,Rice,Mashuri,Kharif,400,55,650,0.0,15.0,2.0,50.0
+21,Andhra Pradesh,0,Rice,Mashuri,Kharif,400,55,650,8.0,15.0,10.0,55.0
+22,Andhra Pradesh,1,Rice,Pothana,Kharif,150,5,100,123.0,87.0,112.0,50.0
+23,Andhra Pradesh,1,Rice,Pothana,Kharif,150,5,100,161.0,107.0,142.0,60.0
+24,Andhra Pradesh,1,Rice,Pothana,Kharif,175,10,150,112.0,77.0,94.0,50.0
+25,Andhra Pradesh,1,Rice,Pothana,Kharif,175,10,150,150.0,96.0,124.0,60.0
+26,Andhra Pradesh,1,Rice,Pothana,Kharif,200,15,200,101.0,66.0,76.0,50.0
+27,Andhra Pradesh,1,Rice,Pothana,Kharif,200,15,200,139.0,86.0,106.0,60.0
+28,Andhra Pradesh,1,Rice,Pothana,Kharif,225,20,250,90.0,55.0,58.0,50.0
+29,Andhra Pradesh,1,Rice,Pothana,Kharif,225,20,250,128.0,75.0,88.0,60.0
+30,Andhra Pradesh,1,Rice,Pothana,Kharif,250,25,300,79.0,45.0,40.0,50.0
+31,Andhra Pradesh,1,Rice,Pothana,Kharif,250,25,300,114.0,65.0,70.0,60.0
+32,Andhra Pradesh,1,Rice,Pothana,Kharif,275,30,350,68.0,34.0,22.0,50.0
+33,Andhra Pradesh,1,Rice,Pothana,Kharif,275,30,350,106.0,54.0,52.0,60.0
+34,Andhra Pradesh,1,Rice,Pothana,Kharif,300,35,400,57.0,23.0,4.0,50.0
+35,Andhra Pradesh,1,Rice,Pothana,Kharif,300,35,400,95.0,44.0,34.0,60.0
+36,Andhra Pradesh,1,Rice,Pothana,Kharif,325,40,450,46.0,13.0,2.0,50.0
+37,Andhra Pradesh,1,Rice,Pothana,Kharif,325,40,450,84.0,33.0,16.0,60.0
+38,Andhra Pradesh,1,Rice,Pothana,Kharif,350,45,500,35.0,12.0,2.0,50.0
+39,Andhra Pradesh,1,Rice,Pothana,Kharif,350,45,500,73.0,23.0,15.0,60.0
+40,Andhra Pradesh,1,Rice,Pothana,Kharif,375,50,550,24.0,12.0,2.0,50.0
+41,Andhra Pradesh,1,Rice,Pothana,Kharif,375,50,550,62.0,12.0,15.0,60.0
+42,Andhra Pradesh,1,Rice,Pothana,Kharif,400,55,600,13.0,12.0,2.0,50.0
+43,Andhra Pradesh,1,Rice,Pothana,Kharif,400,55,600,51.0,2.0,15.0,60.0
+44,Andhra Pradesh,2,Rice,MTU-2067,Kharif,200,10,200,63.0,86.0,71.0,55.0
+45,Andhra Pradesh,2,Rice,MTU-2067,Kharif,200,10,200,74.0,96.0,82.0,60.0
+46,Andhra Pradesh,2,Rice,MTU-2067,Kharif,225,15,250,55.0,77.0,57.0,55.0
+47,Andhra Pradesh,2,Rice,MTU-2067,Kharif,225,15,250,66.0,86.0,69.0,60.0
+48,Andhra Pradesh,2,Rice,MTU-2067,Kharif,250,20,300,47.0,67.0,44.0,55.0
+49,Andhra Pradesh,2,Rice,MTU-2067,Kharif,250,20,300,58.0,77.0,55.0,60.0
+50,Andhra Pradesh,2,Rice,MTU-2067,Kharif,275,25,350,39.0,58.0,30.0,55.0
+51,Andhra Pradesh,2,Rice,MTU-2067,Kharif,275,25,350,50.0,67.0,42.0,60.0
+52,Andhra Pradesh,2,Rice,MTU-2067,Kharif,300,30,400,31.0,48.0,17.0,55.0
+53,Andhra Pradesh,2,Rice,MTU-2067,Kharif,300,30,400,42.0,58.0,28.0,60.0
+54,Andhra Pradesh,2,Rice,MTU-2067,Kharif,325,35,450,23.0,39.0,3.0,55.0
+55,Andhra Pradesh,2,Rice,MTU-2067,Kharif,325,35,450,34.0,48.0,15.0,60.0
+56,Andhra Pradesh,2,Rice,MTU-2067,Kharif,350,40,500,15.0,29.0,2.0,55.0
+57,Andhra Pradesh,2,Rice,MTU-2067,Kharif,350,40,500,26.0,39.0,15.0,60.0
+58,Andhra Pradesh,2,Rice,MTU-2067,Kharif,375,45,550,15.0,20.0,2.0,55.0
+59,Andhra Pradesh,2,Rice,MTU-2067,Kharif,375,45,550,18.0,29.0,15.0,60.0
+60,Andhra Pradesh,2,Rice,MTU-2067,Kharif,400,50,600,15.0,10.0,2.0,55.0
+61,Andhra Pradesh,2,Rice,MTU-2067,Kharif,400,50,600,10.0,20.0,15.0,60.0
+62,Andhra Pradesh,2,Rice,MTU-2067,Kharif,425,55,650,15.0,10.0,2.0,55.0
+63,Andhra Pradesh,2,Rice,MTU-2067,Kharif,425,55,650,2.0,10.0,15.0,60.0
+64,Andhra Pradesh,2,Rice,MTU-2067,Kharif,450,60,700,15.0,10.0,2.0,55.0
+65,Andhra Pradesh,2,Rice,MTU-2067,Kharif,450,60,700,2.0,10.0,15.0,60.0
+66,Andhra Pradesh,0,Rice,MTU-5182,Kharif,150,10,200,152.0,106.0,50.0,60.0
+67,Andhra Pradesh,0,Rice,MTU-5182,Kharif,150,10,200,185.0,131.0,63.0,70.0
+68,Andhra Pradesh,0,Rice,MTU-5182,Kharif,175,15,250,143.0,83.0,44.0,60.0
+69,Andhra Pradesh,0,Rice,MTU-5182,Kharif,175,15,250,177.0,108.0,57.0,70.0
+70,Andhra Pradesh,0,Rice,MTU-5182,Kharif,200,20,300,135.0,61.0,38.0,60.0
+71,Andhra Pradesh,0,Rice,MTU-5182,Kharif,200,20,300,169.0,86.0,51.0,70.0
+72,Andhra Pradesh,0,Rice,MTU-5182,Kharif,225,25,350,127.0,38.0,32.0,60.0
+73,Andhra Pradesh,0,Rice,MTU-5182,Kharif,225,25,350,160.0,63.0,45.0,70.0
+74,Andhra Pradesh,0,Rice,MTU-5182,Kharif,250,30,400,119.0,15.0,26.0,60.0
+75,Andhra Pradesh,0,Rice,MTU-5182,Kharif,250,30,400,152.0,41.0,39.0,70.0
+76,Andhra Pradesh,0,Rice,MTU-5182,Kharif,275,35,450,110.0,15.0,20.0,60.0
+77,Andhra Pradesh,0,Rice,MTU-5182,Kharif,275,35,450,144.0,18.0,33.0,70.0
+78,Andhra Pradesh,0,Rice,MTU-5182,Kharif,300,40,500,102.0,15.0,14.0,60.0
+79,Andhra Pradesh,0,Rice,MTU-5182,Kharif,300,40,500,136.0,15.0,27.0,70.0
+80,Andhra Pradesh,0,Rice,MTU-5182,Kharif,325,45,550,94.0,15.0,8.0,60.0
+81,Andhra Pradesh,0,Rice,MTU-5182,Kharif,325,45,550,127.0,15.0,21.0,70.0
+82,Andhra Pradesh,0,Rice,MTU-5182,Kharif,350,50,600,86.0,15.0,2.0,60.0
+83,Andhra Pradesh,0,Rice,MTU-5182,Kharif,350,50,600,119.0,15.0,15.0,70.0
+84,Andhra Pradesh,0,Rice,MTU-5182,Kharif,375,55,650,77.0,15.0,2.0,60.0
+85,Andhra Pradesh,0,Rice,MTU-5182,Kharif,375,55,650,111.0,15.0,15.0,70.0
+86,Andhra Pradesh,3,Rice,NLR-9672,Kharif,150,10,150,101.0,93.0,55.0,45.0
+87,Andhra Pradesh,3,Rice,NLR-9672,Kharif,150,10,150,118.0,105.0,65.0,50.0
+88,Andhra Pradesh,3,Rice,NLR-9672,Kharif,175,15,200,91.0,82.0,45.0,45.0
+89,Andhra Pradesh,3,Rice,NLR-9672,Kharif,175,15,200,109.0,95.0,55.0,50.0
+90,Andhra Pradesh,3,Rice,NLR-9672,Kharif,200,20,250,82.0,71.0,35.0,45.0
+91,Andhra Pradesh,3,Rice,NLR-9672,Kharif,200,20,250,100.0,84.0,45.0,50.0
+92,Andhra Pradesh,3,Rice,NLR-9672,Kharif,225,25,300,73.0,61.0,25.0,45.0
+93,Andhra Pradesh,3,Rice,NLR-9672,Kharif,225,25,300,90.0,74.0,35.0,50.0
+94,Andhra Pradesh,3,Rice,NLR-9672,Kharif,250,30,350,64.0,50.0,15.0,45.0
+95,Andhra Pradesh,3,Rice,NLR-9672,Kharif,250,30,350,81.0,63.0,25.0,50.0
+96,Andhra Pradesh,3,Rice,NLR-9672,Kharif,275,35,400,54.0,40.0,5.0,45.0
+97,Andhra Pradesh,3,Rice,NLR-9672,Kharif,275,35,400,72.0,52.0,15.0,50.0
+98,Andhra Pradesh,3,Rice,NLR-9672,Kharif,300,40,450,45.0,29.0,5.0,45.0
+99,Andhra Pradesh,3,Rice,NLR-9672,Kharif,300,40,450,63.0,42.0,5.0,50.0
+100,Andhra Pradesh,3,Rice,NLR-9672,Kharif,325,45,50,36.0,18.0,5.0,45.0
+101,Andhra Pradesh,3,Rice,NLR-9672,Kharif,325,45,50,53.0,31.0,5.0,50.0
+102,Andhra Pradesh,3,Rice,NLR-9672,Kharif,350,50,550,27.0,8.0,5.0,45.0
+103,Andhra Pradesh,3,Rice,NLR-9672,Kharif,350,50,550,44.0,20.0,5.0,50.0
+104,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,150,10,150,128.0,108.0,80.0,50.0
+105,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,150,10,150,149.0,122.0,91.0,55.0
+106,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,175,15,200,114.0,95.0,69.0,50.0
+107,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,175,15,200,135.0,108.0,80.0,55.0
+108,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,200,20,250,100.0,82.0,59.0,50.0
+109,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,200,20,250,121.0,94.0,70.0,55.0
+110,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,225,25,300,86.0,68.0,48.0,50.0
+111,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,225,25,300,108.0,81.0,59.0,55.0
+112,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,250,30,350,73.0,55.0,38.0,50.0
+113,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,250,30,350,94.0,67.0,49.0,55.0
+114,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,275,35,400,59.0,41.0,27.0,50.0
+115,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,275,35,400,80.0,53.0,38.0,55.0
+116,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,300,40,450,45.0,28.0,17.0,50.0
+117,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,300,40,450,66.0,39.0,28.0,55.0
+118,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,325,45,500,31.0,15.0,6.0,50.0
+119,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,325,45,500,53.0,26.0,17.0,55.0
+120,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,350,50,550,18.0,2.0,5.0,50.0
+121,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,350,50,550,39.0,12.0,7.0,55.0
+122,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,375,55,600,4.0,0.0,5.0,50.0
+123,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,375,55,600,25.0,10.0,7.0,55.0
+124,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,400,60,650,4.0,0.0,5.0,50.0
+125,Andhra Pradesh,4,Rice,Tellahamsa,Kharif,400,60,650,12.0,10.0,7.0,55.0
+126,Andhra Pradesh,0,Rice,Pothana,Kharif,150,10,150,125.0,96.0,77.0,50.0
+127,Andhra Pradesh,0,Rice,Pothana,Kharif,150,10,150,149.0,109.0,87.0,55.0
+128,Andhra Pradesh,0,Rice,Pothana,Kharif,175,15,200,106.0,75.0,70.0,50.0
+129,Andhra Pradesh,0,Rice,Pothana,Kharif,175,15,200,130.0,88.0,79.0,55.0
+130,Andhra Pradesh,0,Rice,Pothana,Kharif,200,20,250,88.0,54.0,62.0,50.0
+131,Andhra Pradesh,0,Rice,Pothana,Kharif,200,20,250,111.0,67.0,72.0,55.0
+132,Andhra Pradesh,0,Rice,Pothana,Kharif,225,25,300,69.0,33.0,55.0,50.0
+133,Andhra Pradesh,0,Rice,Pothana,Kharif,225,25,300,93.0,46.0,64.0,55.0
+134,Andhra Pradesh,0,Rice,Pothana,Kharif,250,30,350,50.0,12.0,48.0,50.0
+135,Andhra Pradesh,0,Rice,Pothana,Kharif,250,30,350,74.0,25.0,57.0,55.0
+136,Andhra Pradesh,0,Rice,Pothana,Kharif,275,35,400,31.0,10.0,40.0,50.0
+137,Andhra Pradesh,0,Rice,Pothana,Kharif,275,35,400,55.0,4.0,49.0,55.0
+138,Andhra Pradesh,0,Rice,Pothana,Kharif,300,40,450,12.0,10.0,33.0,50.0
+139,Andhra Pradesh,0,Rice,Pothana,Kharif,300,40,450,36.0,2.0,42.0,55.0
+140,Andhra Pradesh,0,Rice,Pothana,Kharif,325,45,500,10.0,10.0,25.0,50.0
+141,Andhra Pradesh,0,Rice,Pothana,Kharif,325,45,500,17.0,2.0,34.0,55.0
+142,Andhra Pradesh,0,Rice,Pothana,Kharif,350,50,550,10.0,10.0,18.0,50.0
+143,Andhra Pradesh,0,Rice,Pothana,Kharif,350,50,550,15.0,2.0,27.0,55.0
+144,Andhra Pradesh,0,Rice,Pothana,Kharif,375,55,600,10.0,10.0,10.0,50.0
+145,Andhra Pradesh,0,Rice,Pothana,Kharif,375,55,600,15.0,2.0,19.0,55.0
+146,Andhra Pradesh,0,Rice,Pothana,Kharif,400,60,650,10.0,10.0,3.0,50.0
+147,Andhra Pradesh,0,Rice,Pothana,Kharif,400,60,650,15.0,2.0,12.0,55.0
+148,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,150,10,200,122.0,108.0,46.0,50.0
+149,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,150,10,200,150.0,131.0,60.0,55.0
+150,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,175,15,250,114.0,93.0,38.0,50.0
+151,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,175,15,250,142.0,116.0,51.0,55.0
+152,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,200,20,300,106.0,78.0,29.0,50.0
+153,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,200,20,300,134.0,101.0,43.0,55.0
+154,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,225,25,350,98.0,63.0,21.0,50.0
+155,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,225,25,350,126.0,86.0,34.0,55.0
+156,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,250,30,400,90.0,48.0,12.0,50.0
+157,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,250,30,400,118.0,71.0,26.0,55.0
+158,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,275,35,450,82.0,33.0,4.0,50.0
+159,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,275,35,450,110.0,56.0,17.0,55.0
+160,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,300,40,500,74.0,18.0,0.0,50.0
+161,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,300,40,500,102.0,41.0,8.0,55.0
+162,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,325,45,550,66.0,3.0,0.0,50.0
+163,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,325,45,550,94.0,26.0,0.0,55.0
+164,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,350,50,600,58.0,0.0,0.0,50.0
+165,Andhra Pradesh,0,Rice,Tellahamsa,Rabi,350,50,600,86.0,11.0,0.0,55.0
+166,Andhra Pradesh,2,Rice,NLR 33057,Rabi,150,10,150,127.0,75.0,74.0,45.0
+167,Andhra Pradesh,2,Rice,NLR 33057,Rabi,150,10,150,150.0,85.0,86.0,50.0
+168,Andhra Pradesh,2,Rice,NLR 33057,Rabi,175,15,200,115.0,65.0,64.0,45.0
+169,Andhra Pradesh,2,Rice,NLR 33057,Rabi,175,15,200,137.0,75.0,76.0,50.0
+170,Andhra Pradesh,2,Rice,NLR 33057,Rabi,200,20,250,102.0,54.0,53.0,45.0
+171,Andhra Pradesh,2,Rice,NLR 33057,Rabi,200,20,250,125.0,65.0,65.0,50.0
+172,Andhra Pradesh,2,Rice,NLR 33057,Rabi,225,25,300,89.0,44.0,43.0,45.0
+173,Andhra Pradesh,2,Rice,NLR 33057,Rabi,225,25,300,112.0,55.0,55.0,50.0
+174,Andhra Pradesh,2,Rice,NLR 33057,Rabi,250,30,350,76.0,34.0,32.0,45.0
+175,Andhra Pradesh,2,Rice,NLR 33057,Rabi,250,30,350,99.0,44.0,44.0,50.0
+176,Andhra Pradesh,2,Rice,NLR 33057,Rabi,275,35,400,64.0,23.0,22.0,45.0
+177,Andhra Pradesh,2,Rice,NLR 33057,Rabi,275,35,400,86.0,34.0,34.0,50.0
+178,Andhra Pradesh,2,Rice,NLR 33057,Rabi,300,40,450,51.0,13.0,12.0,45.0
+179,Andhra Pradesh,2,Rice,NLR 33057,Rabi,300,40,450,74.0,24.0,23.0,50.0
+180,Andhra Pradesh,2,Rice,NLR 33057,Rabi,325,45,50,38.0,3.0,2.0,45.0
+181,Andhra Pradesh,2,Rice,NLR 33057,Rabi,325,45,50,61.0,13.0,13.0,50.0
+182,Andhra Pradesh,2,Rice,NLR 33057,Rabi,350,50,550,25.0,2.0,2.0,45.0
+183,Andhra Pradesh,2,Rice,NLR 33057,Rabi,350,50,550,48.0,3.0,2.0,50.0
+184,Andhra Pradesh,2,Rice,NLR 33057,Rabi,375,55,600,12.0,2.0,2.0,45.0
+185,Andhra Pradesh,2,Rice,NLR 33057,Rabi,375,55,600,35.0,2.0,2.0,50.0
+186,Andhra Pradesh,2,Rice,NLR 33057,Rabi,400,60,650,12.0,2.0,2.0,45.0
+187,Andhra Pradesh,2,Rice,NLR 33057,Rabi,400,60,650,35.0,2.0,2.0,50.0
+188,Andhra Pradesh,2,Rice,IR-64,Rabi,200,10,200,130.0,118.0,95.0,70.0
+189,Andhra Pradesh,2,Rice,IR-64,Rabi,200,10,200,156.0,138.0,115.0,80.0
+190,Andhra Pradesh,2,Rice,IR-64,Rabi,225,15,250,123.0,108.0,85.0,70.0
+191,Andhra Pradesh,2,Rice,IR-64,Rabi,225,15,250,149.0,128.0,101.0,80.0
+192,Andhra Pradesh,2,Rice,IR-64,Rabi,250,20,300,116.0,97.0,74.0,70.0
+193,Andhra Pradesh,2,Rice,IR-64,Rabi,250,20,300,142.0,117.0,94.0,80.0
+194,Andhra Pradesh,2,Rice,IR-64,Rabi,275,25,350,109.0,86.0,64.0,70.0
+195,Andhra Pradesh,2,Rice,IR-64,Rabi,275,25,350,135.0,106.0,85.0,80.0
+196,Andhra Pradesh,2,Rice,IR-64,Rabi,300,30,400,102.0,75.0,53.0,70.0
+197,Andhra Pradesh,2,Rice,IR-64,Rabi,300,30,400,128.0,95.0,75.0,80.0
+198,Andhra Pradesh,2,Rice,IR-64,Rabi,325,35,450,95.0,64.0,43.0,70.0
+199,Andhra Pradesh,2,Rice,IR-64,Rabi,325,35,450,121.0,84.0,66.0,80.0
+200,Andhra Pradesh,2,Rice,IR-64,Rabi,350,40,500,88.0,54.0,32.0,70.0
+201,Andhra Pradesh,2,Rice,IR-64,Rabi,350,40,500,114.0,74.0,56.0,80.0
+202,Andhra Pradesh,2,Rice,IR-64,Rabi,375,45,550,81.0,43.0,22.0,70.0
+203,Andhra Pradesh,2,Rice,IR-64,Rabi,375,45,550,107.0,63.0,47.0,80.0
+204,Andhra Pradesh,2,Rice,IR-64,Rabi,400,50,600,74.0,32.0,11.0,70.0
+205,Andhra Pradesh,2,Rice,IR-64,Rabi,400,50,600,100.0,52.0,37.0,80.0
+206,Andhra Pradesh,2,Rice,IR-64,Rabi,425,55,650,67.0,21.0,10.0,70.0
+207,Andhra Pradesh,2,Rice,IR-64,Rabi,425,55,650,93.0,41.0,28.0,80.0
+208,Andhra Pradesh,2,Rice,IR-64,Rabi,450,60,700,60.0,10.0,10.0,70.0
+209,Andhra Pradesh,2,Rice,IR-64,Rabi,450,60,700,86.0,30.0,18.0,80.0
+210,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,150,10,150,139.0,65.0,67.0,70.0
+211,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,150,10,150,155.0,73.0,75.0,80.0
+212,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,175,15,200,132.0,56.0,59.0,70.0
+213,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,175,15,200,148.0,64.0,67.0,80.0
+214,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,200,20,250,126.0,47.0,51.0,70.0
+215,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,200,20,250,142.0,55.0,59.0,80.0
+216,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,225,25,300,119.0,38.0,43.0,70.0
+217,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,225,25,300,135.0,46.0,51.0,80.0
+218,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,250,30,350,113.0,29.0,35.0,70.0
+219,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,250,30,350,129.0,37.0,43.0,80.0
+220,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,275,35,400,106.0,20.0,27.0,70.0
+221,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,275,35,400,122.0,28.0,35.0,80.0
+222,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,300,40,450,100.0,11.0,19.0,70.0
+223,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,300,40,450,116.0,19.0,27.0,80.0
+224,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,325,45,500,93.0,2.0,11.0,70.0
+225,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,325,45,500,109.0,10.0,19.0,80.0
+226,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,350,50,550,87.0,2.0,3.0,70.0
+227,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,350,50,550,103.0,1.0,11.0,80.0
+228,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,375,55,600,80.0,2.0,2.0,70.0
+229,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,375,55,600,96.0,2.0,3.0,80.0
+230,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,400,60,650,74.0,2.0,2.0,70.0
+231,Andhra Pradesh,5,Rice,Tellahamsa,Rabi,400,60,650,90.0,2.0,2.0,80.0
+232,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,150,10,150,129.0,78.0,65.0,60.0
+233,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,150,10,150,165.0,95.0,80.0,70.0
+234,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,175,15,200,115.0,66.0,57.0,60.0
+235,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,175,15,200,151.0,83.0,72.0,70.0
+236,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,200,20,250,101.0,53.0,49.0,60.0
+237,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,200,20,250,137.0,71.0,64.0,70.0
+238,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,225,25,300,87.0,41.0,41.0,60.0
+239,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,225,25,300,122.0,58.0,56.0,70.0
+240,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,250,30,350,72.0,29.0,33.0,60.0
+241,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,250,30,350,108.0,46.0,48.0,70.0
+242,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,275,35,400,58.0,17.0,25.0,60.0
+243,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,275,35,400,94.0,34.0,40.0,70.0
+244,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,300,40,450,44.0,4.0,15.0,60.0
+245,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,300,40,450,80.0,21.0,32.0,70.0
+246,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,325,45,500,30.0,2.0,7.0,60.0
+247,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,325,45,500,65.0,9.0,24.0,70.0
+248,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,350,50,550,15.0,2.0,5.0,60.0
+249,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,350,50,550,51.0,9.0,16.0,70.0
+250,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,375,55,600,10.0,2.0,5.0,60.0
+251,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,375,55,600,37.0,9.0,8.0,70.0
+252,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,400,60,650,10.0,2.0,5.0,60.0
+253,Andhra Pradesh,4,Rice,Tellahamsa,Rabi,400,60,650,23.0,9.0,8.0,70.0
+254,Andhra Pradesh,0,Rice,Pothana,Rabi,150,10,150,143.0,111.0,64.0,55.0
+255,Andhra Pradesh,0,Rice,Pothana,Rabi,150,10,150,163.0,124.0,79.0,60.0
+256,Andhra Pradesh,0,Rice,Pothana,Rabi,175,15,200,130.0,93.0,60.0,55.0
+257,Andhra Pradesh,0,Rice,Pothana,Rabi,175,15,200,151.0,106.0,75.0,60.0
+258,Andhra Pradesh,0,Rice,Pothana,Rabi,200,20,250,118.0,75.0,56.0,55.0
+259,Andhra Pradesh,0,Rice,Pothana,Rabi,200,20,250,138.0,87.0,71.0,60.0
+260,Andhra Pradesh,0,Rice,Pothana,Rabi,225,25,300,106.0,58.0,52.0,55.0
+261,Andhra Pradesh,0,Rice,Pothana,Rabi,225,25,300,126.0,71.0,67.0,60.0
+262,Andhra Pradesh,0,Rice,Pothana,Rabi,250,30,350,93.0,40.0,48.0,55.0
+263,Andhra Pradesh,0,Rice,Pothana,Rabi,250,30,350,113.0,53.0,63.0,60.0
+264,Andhra Pradesh,0,Rice,Pothana,Rabi,275,35,400,81.0,23.0,44.0,55.0
+265,Andhra Pradesh,0,Rice,Pothana,Rabi,275,35,400,101.0,36.0,59.0,60.0
+266,Andhra Pradesh,0,Rice,Pothana,Rabi,300,40,450,68.0,5.0,40.0,55.0
+267,Andhra Pradesh,0,Rice,Pothana,Rabi,300,40,450,88.0,18.0,55.0,60.0
+268,Andhra Pradesh,0,Rice,Pothana,Rabi,325,45,500,56.0,5.0,36.0,55.0
+269,Andhra Pradesh,0,Rice,Pothana,Rabi,325,45,500,76.0,15.0,51.0,60.0
+270,Andhra Pradesh,0,Rice,Pothana,Rabi,350,50,550,43.0,5.0,32.0,55.0
+271,Andhra Pradesh,0,Rice,Pothana,Rabi,350,50,550,63.0,15.0,47.0,60.0
+272,Andhra Pradesh,0,Rice,Pothana,Rabi,375,55,600,31.0,5.0,28.0,55.0
+273,Andhra Pradesh,0,Rice,Pothana,Rabi,375,55,600,51.0,15.0,43.0,60.0
+274,Andhra Pradesh,0,Rice,Pothana,Rabi,400,60,650,18.0,5.0,24.0,55.0
+275,Andhra Pradesh,0,Rice,Pothana,Rabi,400,60,650,38.0,15.0,39.0,60.0
+276,New Delhi,6,Rice,Generic,Kharif,100,10,100,200.0,120.0,95.0,50.0
+277,New Delhi,6,Rice,Generic,Kharif,100,10,100,250.0,120.0,120.0,60.0
+278,New Delhi,6,Rice,Generic,Kharif,125,13,125,190.0,120.0,90.0,50.0
+279,New Delhi,6,Rice,Generic,Kharif,125,13,125,235.0,120.0,115.0,60.0
+280,New Delhi,6,Rice,Generic,Kharif,150,15,150,175.0,105.0,85.0,50.0
+281,New Delhi,6,Rice,Generic,Kharif,150,15,150,225.0,120.0,105.0,60.0
+282,New Delhi,6,Rice,Generic,Kharif,175,18,175,165.0,85.0,80.0,50.0
+283,New Delhi,6,Rice,Generic,Kharif,175,18,175,215.0,120.0,100.0,60.0
+284,New Delhi,6,Rice,Generic,Kharif,200,20,200,155.0,70.0,75.0,50.0
+285,New Delhi,6,Rice,Generic,Kharif,200,20,200,200.0,115.0,95.0,60.0
+286,New Delhi,6,Rice,Generic,Kharif,225,23,225,140.0,50.0,70.0,50.0
+287,New Delhi,6,Rice,Generic,Kharif,225,23,225,190.0,95.0,90.0,60.0
+288,New Delhi,6,Rice,Generic,Kharif,250,25,250,130.0,30.0,65.0,50.0
+289,New Delhi,6,Rice,Generic,Kharif,250,25,250,180.0,75.0,85.0,60.0
+290,New Delhi,6,Rice,Generic,Kharif,275,28,275,120.0,10.0,60.0,50.0
+291,New Delhi,6,Rice,Generic,Kharif,275,28,275,165.0,55.0,80.0,60.0
+292,New Delhi,6,Rice,Generic,Kharif,300,30,300,105.0,10.0,55.0,50.0
+293,New Delhi,6,Rice,Generic,Kharif,300,30,300,155.0,35.0,75.0,60.0
+294,New Delhi,6,Rice,Generic,Kharif,325,33,325,95.0,10.0,50.0,50.0
+295,New Delhi,6,Rice,Generic,Kharif,325,33,325,145.0,15.0,70.0,60.0
+296,New Delhi,6,Rice,Generic,Kharif,350,36,350,85.0,10.0,45.0,50.0
+297,New Delhi,6,Rice,Generic,Kharif,350,36,350,130.0,15.0,65.0,60.0
+298,New Delhi,6,Rice,Generic,Kharif,375,38,375,70.0,10.0,35.0,50.0
+299,New Delhi,6,Rice,Generic,Kharif,375,38,375,120.0,15.0,60.0,60.0
+300,Bihar,7,Rice,Generic,Kharif,120,4,60,88.0,62.0,51.0,25.0
+301,Bihar,7,Rice,Generic,Kharif,120,4,60,118.0,76.0,70.0,30.0
+302,Bihar,7,Rice,Generic,Kharif,130,6,70,82.0,58.0,44.0,25.0
+303,Bihar,7,Rice,Generic,Kharif,130,6,70,113.0,72.0,63.0,30.0
+304,Bihar,7,Rice,Generic,Kharif,140,8,80,77.0,53.0,37.0,25.0
+305,Bihar,7,Rice,Generic,Kharif,140,8,80,107.0,68.0,56.0,30.0
+306,Bihar,7,Rice,Generic,Kharif,150,10,90,71.0,49.0,30.0,25.0
+307,Bihar,7,Rice,Generic,Kharif,150,10,90,102.0,63.0,49.0,30.0
+308,Bihar,7,Rice,Generic,Kharif,160,12,100,66.0,45.0,23.0,25.0
+309,Bihar,7,Rice,Generic,Kharif,160,12,100,96.0,59.0,42.0,30.0
+310,Bihar,7,Rice,Generic,Kharif,170,14,110,60.0,41.0,16.0,25.0
+311,Bihar,7,Rice,Generic,Kharif,170,14,110,91.0,55.0,35.0,30.0
+312,Bihar,7,Rice,Generic,Kharif,180,16,120,55.0,36.0,10.0,25.0
+313,Bihar,7,Rice,Generic,Kharif,180,16,120,85.0,50.0,28.0,30.0
+314,Bihar,7,Rice,Generic,Kharif,190,18,130,49.0,32.0,10.0,25.0
+315,Bihar,7,Rice,Generic,Kharif,190,18,130,80.0,46.0,21.0,30.0
+316,Bihar,7,Rice,Generic,Kharif,200,20,140,44.0,28.0,10.0,25.0
+317,Bihar,7,Rice,Generic,Kharif,200,20,140,74.0,42.0,14.0,30.0
+318,Bihar,7,Rice,Generic,Kharif,210,22,150,38.0,23.0,10.0,25.0
+319,Bihar,7,Rice,Generic,Kharif,210,22,150,69.0,37.0,10.0,30.0
+320,Bihar,7,Rice,Generic,Kharif,220,24,160,33.0,19.0,10.0,25.0
+321,Bihar,7,Rice,Generic,Kharif,220,24,160,63.0,33.0,10.0,30.0
+322,Bihar,7,Rice,Generic,Kharif,230,26,170,25.0,15.0,10.0,25.0
+323,Bihar,7,Rice,Generic,Kharif,230,26,170,58.0,29.0,10.0,30.0
+324,Bihar,7,Rice,Generic,Kharif,240,28,180,25.0,15.0,10.0,25.0
+325,Bihar,7,Rice,Generic,Kharif,240,28,180,52.0,24.0,10.0,30.0
+326,Bihar,7,Rice,Generic,Kharif,250,30,190,25.0,15.0,10.0,25.0
+327,Bihar,7,Rice,Generic,Kharif,250,30,190,47.0,20.0,10.0,30.0
+328,West Bengal,1,Rice,IET-4094,Kharif,250,5,100,111.0,84.0,87.0,3.5
+329,West Bengal,1,Rice,IET-4094,Kharif,250,5,100,129.0,98.0,90.0,4.0
+330,West Bengal,1,Rice,IET-4094,Kharif,275,10,150,102.0,84.0,87.0,3.5
+331,West Bengal,1,Rice,IET-4094,Kharif,275,10,150,120.0,98.0,90.0,4.0
+332,West Bengal,1,Rice,IET-4094,Kharif,300,15,200,93.0,84.0,87.0,3.5
+333,West Bengal,1,Rice,IET-4094,Kharif,300,15,200,111.0,98.0,90.0,4.0
+334,West Bengal,1,Rice,IET-4094,Kharif,325,20,250,84.0,84.0,87.0,3.5
+335,West Bengal,1,Rice,IET-4094,Kharif,325,20,250,102.0,94.0,90.0,4.0
+336,West Bengal,1,Rice,IET-4094,Kharif,350,25,300,76.0,80.0,87.0,3.5
+337,West Bengal,1,Rice,IET-4094,Kharif,350,25,300,94.0,89.0,100.0,4.0
+338,West Bengal,1,Rice,IET-4094,Kharif,375,30,350,67.0,75.0,77.0,3.5
+339,West Bengal,1,Rice,IET-4094,Kharif,375,30,350,85.0,85.0,90.0,4.0
+340,West Bengal,1,Borp Rice,IET-4789,Boro,250,5,100,117.0,90.0,71.0,55.0
+341,West Bengal,1,Borp Rice,IET-4789,Boro,250,5,100,139.0,99.0,80.0,60.0
+342,West Bengal,1,Borp Rice,IET-4789,Boro,275,10,150,103.0,85.0,61.0,55.0
+343,West Bengal,1,Borp Rice,IET-4789,Boro,275,10,150,126.0,94.0,69.0,60.0
+344,West Bengal,1,Borp Rice,IET-4789,Boro,300,15,200,90.0,80.0,50.0,55.0
+345,West Bengal,1,Borp Rice,IET-4789,Boro,300,15,200,113.0,89.0,59.0,60.0
+346,West Bengal,1,Borp Rice,IET-4789,Boro,325,20,250,77.0,75.0,40.0,55.0
+347,West Bengal,1,Borp Rice,IET-4789,Boro,325,20,250,100.0,83.0,48.0,60.0
+348,West Bengal,1,Borp Rice,IET-4789,Boro,350,25,300,64.0,69.0,29.0,55.0
+349,West Bengal,1,Borp Rice,IET-4789,Boro,350,25,300,86.0,78.0,38.0,60.0
+350,West Bengal,1,Borp Rice,IET-4789,Boro,375,30,350,50.0,64.0,19.0,55.0
+351,West Bengal,1,Borp Rice,IET-4789,Boro,375,30,350,73.0,73.0,27.0,60.0
+352,Maharashtra,8,Sugarcane,Adsali,autun-spring,100,6,200,612.0,256.0,252.0,175.0
+353,Maharashtra,8,Sugarcane,Adsali,autun-spring,100,6,200,722.0,297.0,298.0,200.0
+354,Maharashtra,8,Sugarcane,Adsali,autun-spring,120,8,300,581.0,247.0,215.0,175.0
+355,Maharashtra,8,Sugarcane,Adsali,autun-spring,120,8,300,691.0,288.0,261.0,200.0
+356,Maharashtra,8,Sugarcane,Adsali,autun-spring,140,10,400,550.0,238.0,178.0,175.0
+357,Maharashtra,8,Sugarcane,Adsali,autun-spring,140,10,400,660.0,278.0,224.0,200.0
+358,Maharashtra,8,Sugarcane,Adsali,autun-spring,160,12,500,519.0,229.0,141.0,175.0
+359,Maharashtra,8,Sugarcane,Adsali,autun-spring,160,12,500,628.0,269.0,187.0,200.0
+360,Maharashtra,8,Sugarcane,Adsali,autun-spring,180,14,600,487.0,220.0,104.0,175.0
+361,Maharashtra,8,Sugarcane,Adsali,autun-spring,180,14,600,597.0,260.0,150.0,200.0
+362,Maharashtra,8,Sugarcane,Adsali,autun-spring,200,16,700,456.0,211.0,67.0,175.0
+363,Maharashtra,8,Sugarcane,Adsali,autun-spring,200,16,700,566.0,251.0,113.0,200.0
+364,Maharashtra,9,Sorghum,CSH-9,Kharif,100,6,200,87.0,47.0,90.0,40.0
+365,Maharashtra,9,Sorghum,CSH-9,Kharif,100,6,200,110.0,58.0,106.0,45.0
+366,Maharashtra,9,Sorghum,CSH-9,Kharif,120,8,300,68.0,33.0,68.0,40.0
+367,Maharashtra,9,Sorghum,CSH-9,Kharif,120,8,300,91.0,44.0,84.0,45.0
+368,Maharashtra,9,Sorghum,CSH-9,Kharif,140,10,400,49.0,19.0,46.0,40.0
+369,Maharashtra,9,Sorghum,CSH-9,Kharif,140,10,400,72.0,30.0,62.0,45.0
+370,Maharashtra,9,Sorghum,CSH-9,Kharif,160,12,500,30.0,25.0,24.0,40.0
+371,Maharashtra,9,Sorghum,CSH-9,Kharif,160,12,500,52.0,16.0,40.0,45.0
+372,Maharashtra,9,Sorghum,CSH-9,Kharif,180,14,600,10.0,25.0,25.0,40.0
+373,Maharashtra,9,Sorghum,CSH-9,Kharif,180,14,600,33.0,25.0,18.0,45.0
+374,Maharashtra,9,Sorghum,CSH-9,Kharif,200,14,700,25.0,25.0,25.0,40.0
+375,Maharashtra,9,Sorghum,CSH-9,Kharif,200,14,700,14.0,25.0,25.0,45.0
+376,Maharashtra,8,Sorghum,CSH-8 R,Rabi,100,6,200,158.0,74.0,102.0,50.0
+377,Maharashtra,8,Sorghum,CSH-8 R,Rabi,100,6,200,205.0,94.0,135.0,60.0
+378,Maharashtra,8,Sorghum,CSH-8 R,Rabi,120,8,250,143.0,66.0,85.0,50.0
+379,Maharashtra,8,Sorghum,CSH-8 R,Rabi,120,8,250,190.0,86.0,119.0,60.0
+380,Maharashtra,8,Sorghum,CSH-8 R,Rabi,140,10,300,127.0,57.0,69.0,50.0
+381,Maharashtra,8,Sorghum,CSH-8 R,Rabi,140,10,300,174.0,77.0,102.0,60.0
+382,Maharashtra,8,Sorghum,CSH-8 R,Rabi,160,12,350,112.0,49.0,52.0,50.0
+383,Maharashtra,8,Sorghum,CSH-8 R,Rabi,160,12,350,159.0,69.0,86.0,60.0
+384,Maharashtra,8,Sorghum,CSH-8 R,Rabi,180,14,400,96.0,40.0,36.0,50.0
+385,Maharashtra,8,Sorghum,CSH-8 R,Rabi,180,14,400,143.0,60.0,69.0,60.0
+386,Maharashtra,8,Sorghum,CSH-8 R,Rabi,200,16,450,81.0,31.0,19.0,50.0
+387,Maharashtra,8,Sorghum,CSH-8 R,Rabi,200,16,450,128.0,51.0,53.0,60.0
+388,Maharashtra,8,Sorghum,CSH-8 R,Rabi,220,18,500,66.0,23.0,25.0,50.0
+389,Maharashtra,8,Sorghum,CSH-8 R,Rabi,220,18,500,113.0,43.0,36.0,60.0
+390,Maharashtra,8,Sorghum,CSH-8 R,Rabi,240,20,500,50.0,14.0,25.0,50.0
+391,Maharashtra,8,Sorghum,CSH-8 R,Rabi,240,20,500,97.0,34.0,25.0,60.0
+392,Maharashtra,6,Finger Millet,Nagli RAU-8,-,100,6,200,30.0,28.0,10.0,12.0
+393,Maharashtra,6,Finger Millet,Nagli RAU-8,-,100,6,200,57.0,45.0,17.0,18.0
+394,Maharashtra,6,Finger Millet,Nagli RAU-8,-,120,8,300,26.0,25.0,25.0,12.0
+395,Maharashtra,6,Finger Millet,Nagli RAU-8,-,120,8,300,52.0,43.0,15.0,18.0
+396,Maharashtra,6,Finger Millet,Nagli RAU-8,-,140,10,400,21.0,22.0,25.0,12.0
+397,Maharashtra,6,Finger Millet,Nagli RAU-8,-,140,10,400,48.0,40.0,25.0,18.0
+398,Maharashtra,6,Finger Millet,Nagli RAU-8,-,160,12,500,17.0,20.0,25.0,12.0
+399,Maharashtra,6,Finger Millet,Nagli RAU-8,-,160,12,500,43.0,37.0,25.0,18.0
+400,Maharashtra,6,Finger Millet,Nagli RAU-8,-,180,14,600,25.0,17.0,25.0,12.0
+401,Maharashtra,6,Finger Millet,Nagli RAU-8,-,180,14,600,39.0,35.0,25.0,18.0
+402,Maharashtra,6,Finger Millet,Nagli RAU-8,-,200,16,700,25.0,14.0,25.0,12.0
+403,Maharashtra,6,Finger Millet,Nagli RAU-8,-,200,16,700,34.0,32.0,25.0,18.0
+404,Maharashtra,8,Fodder Maize,African tall,Summer,100,6,200,203.6,56.02,72.0,40.0
+405,Maharashtra,8,Fodder Maize,African tall,Summer,100,6,200,268.5,71.12,96.5,50.0
+406,Maharashtra,8,Fodder Maize,African tall,Summer,120,8,300,192.4,54.56,59.0,40.0
+407,Maharashtra,8,Fodder Maize,African tall,Summer,120,8,300,257.3,69.66,83.5,50.0
+408,Maharashtra,8,Fodder Maize,African tall,Summer,140,10,400,181.2,53.1,46.0,40.0
+409,Maharashtra,8,Fodder Maize,African tall,Summer,140,10,400,246.1,68.2,70.5,50.0
+410,Maharashtra,8,Fodder Maize,African tall,Summer,160,12,500,170.0,51.64,33.0,40.0
+411,Maharashtra,8,Fodder Maize,African tall,Summer,160,12,500,234.9,66.74,57.5,50.0
+412,Maharashtra,8,Fodder Maize,African tall,Summer,180,14,600,158.8,50.18,20.0,40.0
+413,Maharashtra,8,Fodder Maize,African tall,Summer,180,14,600,223.7,65.28,44.5,50.0
+414,Maharashtra,8,Fodder Maize,African tall,Summer,200,16,700,147.6,48.72,25.0,40.0
+415,Maharashtra,8,Fodder Maize,African tall,Summer,200,16,700,215.5,63.82,31.5,50.0
+416,Maharashtra,8,Cotton,RHR-253,Kharif,100,6,250,187.0,119.0,126.0,20.0
+417,Maharashtra,8,Cotton,RHR-253,Kharif,100,6,250,239.0,146.0,160.0,24.0
+418,Maharashtra,8,Cotton,RHR-253,Kharif,120,10,300,172.0,108.0,117.0,20.0
+419,Maharashtra,8,Cotton,RHR-253,Kharif,120,10,300,224.0,135.0,151.0,24.0
+420,Maharashtra,8,Cotton,RHR-253,Kharif,140,14,350,157.0,96.0,108.0,20.0
+421,Maharashtra,8,Cotton,RHR-253,Kharif,140,14,350,209.0,124.0,142.0,24.0
+422,Maharashtra,8,Cotton,RHR-253,Kharif,160,18,400,142.0,85.0,99.0,20.0
+423,Maharashtra,8,Cotton,RHR-253,Kharif,160,18,400,194.0,112.0,133.0,24.0
+424,Maharashtra,8,Cotton,RHR-253,Kharif,180,22,450,127.0,68.0,90.0,20.0
+425,Maharashtra,8,Cotton,RHR-253,Kharif,180,22,450,179.0,95.0,124.0,24.0
+426,Maharashtra,8,Cotton,RHR-253,Kharif,200,26,500,112.0,57.0,81.0,20.0
+427,Maharashtra,8,Cotton,RHR-253,Kharif,200,26,500,164.0,84.0,115.0,24.0
+428,Maharashtra,8,Cotton,RHR-253,Kharif,220,30,550,97.0,45.0,72.0,20.0
+429,Maharashtra,8,Cotton,RHR-253,Kharif,220,30,550,149.0,73.0,106.0,24.0
+430,Maharashtra,8,Cotton,RHR-253,Kharif,240,34,600,82.0,34.0,63.0,20.0
+431,Maharashtra,8,Cotton,RHR-253,Kharif,240,34,600,139.0,61.0,97.0,24.0
+432,Maharashtra,8,Cotton,RHR-253,Kharif,100,6,250,187.0,119.0,126.0,20.0
+433,Maharashtra,8,Cotton,RHR-253,Kharif,100,6,250,239.0,146.0,160.0,24.0
+434,Maharashtra,8,Cotton,RHR-253,Kharif,120,10,300,172.0,108.0,117.0,20.0
+435,Maharashtra,8,Cotton,RHR-253,Kharif,120,10,300,224.0,135.0,151.0,24.0
+436,Maharashtra,8,Cotton,RHR-253,Kharif,140,14,350,157.0,96.0,108.0,20.0
+437,Maharashtra,8,Cotton,RHR-253,Kharif,140,14,350,209.0,124.0,142.0,24.0
+438,Maharashtra,8,Cotton,RHR-253,Kharif,160,18,400,142.0,85.0,99.0,20.0
+439,Maharashtra,8,Cotton,RHR-253,Kharif,160,18,400,194.0,112.0,133.0,24.0
+440,Maharashtra,8,Cotton,RHR-253,Kharif,180,22,450,127.0,68.0,90.0,20.0
+441,Maharashtra,8,Cotton,RHR-253,Kharif,180,22,450,179.0,95.0,124.0,24.0
+442,Maharashtra,8,Cotton,RHR-253,Kharif,200,26,500,112.0,57.0,81.0,20.0
+443,Maharashtra,8,Cotton,RHR-253,Kharif,200,26,500,164.0,84.0,115.0,24.0
+444,Maharashtra,8,Cotton,RHR-253,Kharif,220,30,550,97.0,45.0,72.0,20.0
+445,Maharashtra,8,Cotton,RHR-253,Kharif,220,30,550,149.0,73.0,106.0,24.0
+446,Maharashtra,8,Cotton,RHR-253,Kharif,240,34,600,82.0,34.0,63.0,20.0
+447,Maharashtra,8,Cotton,RHR-253,Kharif,240,34,600,139.0,61.0,97.0,24.0
+448,Maharashtra,10,Sugarcane,Co 86032,Seasonal,100,6,200,342.0,115.0,231.0,100.0
+449,Maharashtra,10,Sugarcane,Co 86032,Seasonal,100,6,200,437.0,140.0,286.0,120.0
+450,Maharashtra,10,Sugarcane,Co 86032,Seasonal,120,8,300,315.0,112.0,210.0,100.0
+451,Maharashtra,10,Sugarcane,Co 86032,Seasonal,120,8,300,410.0,136.0,265.0,120.0
+452,Maharashtra,10,Sugarcane,Co 86032,Seasonal,140,10,400,288.0,109.0,181.0,100.0
+453,Maharashtra,10,Sugarcane,Co 86032,Seasonal,140,10,400,384.0,133.0,244.0,120.0
+454,Maharashtra,10,Sugarcane,Co 86032,Seasonal,160,12,500,261.0,105.0,168.0,100.0
+455,Maharashtra,10,Sugarcane,Co 86032,Seasonal,160,12,500,357.0,130.0,223.0,120.0
+456,Maharashtra,10,Sugarcane,Co 86032,Seasonal,180,14,600,234.0,102.0,147.0,100.0
+457,Maharashtra,10,Sugarcane,Co 86032,Seasonal,180,14,600,330.0,127.0,202.0,120.0
+458,Maharashtra,10,Sugarcane,Co 86032,Seasonal,200,16,700,207.0,99.0,134.0,100.0
+459,Maharashtra,10,Sugarcane,Co 86032,Seasonal,200,16,700,303.0,124.0,181.0,120.0
+460,Maharashtra,6,Groundnut,Phule Pragati,Kharif,100,6,200,46.0,73.0,31.0,20.0
+461,Maharashtra,6,Groundnut,Phule Pragati,Kharif,100,6,200,67.0,98.0,47.0,25.0
+462,Maharashtra,6,Groundnut,Phule Pragati,Kharif,120,8,250,39.0,64.0,23.0,20.0
+463,Maharashtra,6,Groundnut,Phule Pragati,Kharif,120,8,250,60.0,89.0,39.0,25.0
+464,Maharashtra,6,Groundnut,Phule Pragati,Kharif,140,10,300,31.0,56.0,15.0,20.0
+465,Maharashtra,6,Groundnut,Phule Pragati,Kharif,140,10,300,52.0,80.0,31.0,25.0
+466,Maharashtra,6,Groundnut,Phule Pragati,Kharif,160,12,350,24.0,47.0,25.0,20.0
+467,Maharashtra,6,Groundnut,Phule Pragati,Kharif,160,12,350,45.0,72.0,23.0,25.0
+468,Maharashtra,6,Groundnut,Phule Pragati,Kharif,180,14,400,17.0,38.0,25.0,20.0
+469,Maharashtra,6,Groundnut,Phule Pragati,Kharif,180,14,400,37.0,63.0,15.0,25.0
+470,Maharashtra,6,Groundnut,Phule Pragati,Kharif,200,16,450,25.0,29.0,25.0,20.0
+471,Maharashtra,6,Groundnut,Phule Pragati,Kharif,200,16,450,30.0,54.0,25.0,25.0
+472,Maharashtra,6,Groundnut,Phule Pragati,Kharif,220,18,500,25.0,21.0,25.0,20.0
+473,Maharashtra,6,Groundnut,Phule Pragati,Kharif,220,18,500,23.0,46.0,25.0,25.0
+474,Maharashtra,6,Groundnut,SB-IX,Summer,100,6,200,65.0,169.0,61.0,20.0
+475,Maharashtra,6,Groundnut,SB-IX,Summer,100,6,200,85.0,210.0,77.0,25.0
+476,Maharashtra,6,Groundnut,SB-IX,Summer,120,8,300,57.0,157.0,51.0,20.0
+477,Maharashtra,6,Groundnut,SB-IX,Summer,120,8,300,77.0,198.0,67.0,25.0
+478,Maharashtra,6,Groundnut,SB-IX,Summer,140,10,400,49.0,144.0,41.0,20.0
+479,Maharashtra,6,Groundnut,SB-IX,Summer,140,10,400,69.0,185.0,57.0,25.0
+480,Maharashtra,6,Groundnut,SB-IX,Summer,160,12,500,41.0,132.0,31.0,20.0
+481,Maharashtra,6,Groundnut,SB-IX,Summer,160,12,500,61.0,173.0,47.0,25.0
+482,Maharashtra,6,Groundnut,SB-IX,Summer,180,14,600,33.0,120.0,21.0,20.0
+483,Maharashtra,6,Groundnut,SB-IX,Summer,180,14,600,53.0,161.0,37.0,25.0
+484,Maharashtra,6,Groundnut,SB-IX,Summer,200,16,700,25.0,107.0,11.0,20.0
+485,Maharashtra,6,Groundnut,SB-IX,Summer,200,16,700,45.0,149.0,27.0,25.0
+486,Maharashtra,8,Soybean,JS-335,Kharif,100,6,200,104.0,127.0,73.0,25.0
+487,Maharashtra,8,Soybean,JS-335,Kharif,100,6,200,60.0,85.0,63.0,25.0
+488,Maharashtra,8,Soybean,JS-335,Kharif,120,8,300,90.0,119.0,60.0,25.0
+489,Maharashtra,8,Soybean,JS-335,Kharif,120,8,300,52.0,79.0,52.0,25.0
+490,Maharashtra,8,Soybean,JS-335,Kharif,140,10,400,76.0,110.0,47.0,25.0
+491,Maharashtra,8,Soybean,JS-335,Kharif,140,10,400,44.0,73.0,41.0,25.0
+492,Maharashtra,8,Soybean,JS-335,Kharif,160,12,500,63.0,101.0,34.0,25.0
+493,Maharashtra,8,Soybean,JS-335,Kharif,160,12,500,36.0,67.0,30.0,25.0
+494,Maharashtra,8,Soybean,JS-335,Kharif,180,14,600,49.0,92.0,21.0,25.0
+495,Maharashtra,8,Soybean,JS-335,Kharif,180,14,600,29.0,61.0,19.0,25.0
+496,Maharashtra,8,Soybean,JS-335,Kharif,200,16,700,36.0,83.0,25.0,25.0
+497,Maharashtra,8,Soybean,JS-335,Kharif,200,16,700,21.0,56.0,25.0,25.0
+498,Maharashtra,8,Soybean,JS-335,Kharif,220,18,800,22.0,74.0,25.0,25.0
+499,Maharashtra,8,Soybean,JS-335,Kharif,220,18,800,13.0,50.0,25.0,25.0
+500,Maharashtra,8,Sunflower,SS-56,Kharif,160,8,250,123.0,59.0,45.0,16.0
+501,Maharashtra,8,Sunflower,SS-56,Kharif,160,8,250,150.0,74.0,54.0,18.0
+502,Maharashtra,8,Sunflower,SS-56,Kharif,180,10,300,110.0,45.0,39.0,16.0
+503,Maharashtra,8,Sunflower,SS-56,Kharif,180,10,300,137.0,60.0,48.0,18.0
+504,Maharashtra,8,Sunflower,SS-56,Kharif,200,12,350,97.0,31.0,33.0,16.0
+505,Maharashtra,8,Sunflower,SS-56,Kharif,200,12,350,124.0,46.0,42.0,18.0
+506,Maharashtra,8,Sunflower,SS-56,Kharif,220,14,400,84.0,17.0,27.0,16.0
+507,Maharashtra,8,Sunflower,SS-56,Kharif,220,14,400,111.0,32.0,36.0,18.0
+508,Maharashtra,8,Sunflower,SS-56,Kharif,240,16,450,71.0,25.0,21.0,16.0
+509,Maharashtra,8,Sunflower,SS-56,Kharif,240,16,450,98.0,25.0,30.0,18.0
+510,Maharashtra,6,wheat,HD-2189,RABI,100,6,250,237.0,59.0,45.0,40.0
+511,Maharashtra,6,wheat,HD-2189,RABI,100,6,250,303.0,78.0,69.0,50.0
+512,Maharashtra,6,wheat,HD-2189,RABI,120,8,275,222.0,53.0,40.0,40.0
+513,Maharashtra,6,wheat,HD-2189,RABI,120,8,275,288.0,72.0,64.0,50.0
+514,Maharashtra,6,wheat,HD-2189,RABI,140,10,300,207.0,47.0,34.0,40.0
+515,Maharashtra,6,wheat,HD-2189,RABI,140,10,300,273.0,66.0,58.0,50.0
+516,Maharashtra,6,wheat,HD-2189,RABI,160,12,325,193.0,41.0,29.0,40.0
+517,Maharashtra,6,wheat,HD-2189,RABI,160,12,325,259.0,60.0,53.0,50.0
+518,Maharashtra,6,wheat,HD-2189,RABI,180,14,350,178.0,36.0,23.0,40.0
+519,Maharashtra,6,wheat,HD-2189,RABI,180,14,350,244.0,55.0,47.0,50.0
+520,Maharashtra,6,wheat,HD-2189,RABI,200,16,375,163.0,30.0,18.0,40.0
+521,Maharashtra,6,wheat,HD-2189,RABI,200,16,375,229.0,49.0,42.0,50.0
+522,Maharashtra,6,wheat,HD-2189,RABI,220,18,400,149.0,25.0,25.0,40.0
+523,Maharashtra,6,wheat,HD-2189,RABI,220,18,400,214.0,43.0,36.0,50.0
+524,Maharashtra,6,wheat,HD-2189,RABI,240,20,425,133.0,25.0,25.0,40.0
+525,Maharashtra,6,wheat,HD-2189,RABI,240,20,425,199.0,37.0,31.0,50.0
+526,Maharashtra,6,wheat,HD-2189,RABI,260,22,450,118.0,25.0,25.0,40.0
+527,Maharashtra,6,wheat,HD-2189,RABI,260,22,450,185.0,32.0,25.0,50.0
+528,Maharashtra,6,wheat,HD-2189,RABI,280,24,475,103.0,25.0,25.0,40.0
+529,Maharashtra,6,wheat,HD-2189,RABI,280,24,475,170.0,26.0,20.0,50.0
+530,Maharashtra,6,wheat,HD-2189,RABI,300,26,500,80.0,25.0,25.0,40.0
+531,Maharashtra,6,wheat,HD-2189,RABI,300,26,500,155.0,20.0,15.0,50.0
+532,Maharashtra,11,Transplanted paddy,Indrayani,0,100,10,200,174.0,239.0,77.0,40.0
+533,Maharashtra,11,Transplanted paddy,Indrayani,0,100,10,200,200.0,286.0,91.0,45.0
+534,Maharashtra,11,Transplanted paddy,Indrayani,0,150,15,250,157.0,171.0,69.0,40.0
+535,Maharashtra,11,Transplanted paddy,Indrayani,0,150,15,250,183.0,218.0,83.0,45.0
+536,Maharashtra,11,Transplanted paddy,Indrayani,0,200,20,300,140.0,103.0,61.0,40.0
+537,Maharashtra,11,Transplanted paddy,Indrayani,0,200,20,300,166.0,150.0,75.0,45.0
+538,Maharashtra,11,Transplanted paddy,Indrayani,0,250,25,350,123.0,35.0,53.0,40.0
+539,Maharashtra,11,Transplanted paddy,Indrayani,0,250,25,350,149.0,82.0,67.0,45.0
+540,Maharashtra,11,Transplanted paddy,Indrayani,0,300,30,400,106.0,25.0,45.0,40.0
+541,Maharashtra,11,Transplanted paddy,Indrayani,0,300,30,400,132.0,25.0,59.0,45.0
+542,Maharashtra,6,Upland paddy,R-24,Rabi,100,6,200,112.0,61.0,61.0,30.0
+543,Maharashtra,6,Upland paddy,R-24,Rabi,100,6,200,167.0,82.0,84.0,40.0
+544,Maharashtra,6,Upland paddy,R-24,Rabi,120,8,300,101.0,59.0,56.0,30.0
+545,Maharashtra,6,Upland paddy,R-24,Rabi,120,8,300,156.0,81.0,79.0,40.0
+546,Maharashtra,6,Upland paddy,R-24,Rabi,140,10,400,90.0,57.0,51.0,30.0
+547,Maharashtra,6,Upland paddy,R-24,Rabi,140,10,400,145.0,79.0,74.0,40.0
+548,Maharashtra,6,Upland paddy,R-24,Rabi,160,12,500,80.0,55.0,46.0,30.0
+549,Maharashtra,6,Upland paddy,R-24,Rabi,160,12,500,134.0,77.0,69.0,40.0
+550,Maharashtra,6,Upland paddy,R-24,Rabi,180,14,600,68.0,54.0,41.0,30.0
+551,Maharashtra,6,Upland paddy,R-24,Rabi,180,14,600,123.0,76.0,64.0,40.0
+552,Maharashtra,6,Upland paddy,R-24,Rabi,200,16,700,57.0,52.0,36.0,30.0
+553,Maharashtra,6,Upland paddy,R-24,Rabi,200,16,700,112.0,74.0,59.0,40.0
+554,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,100,6,250,61.0,77.0,35.0,30.0
+555,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,100,6,250,78.0,94.0,43.0,35.0
+556,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,120,10,300,54.0,60.0,32.0,30.0
+557,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,120,10,300,70.0,77.0,40.0,35.0
+558,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,140,14,350,46.0,44.0,29.0,30.0
+559,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,140,14,350,63.0,61.0,37.0,35.0
+560,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,160,18,400,38.0,28.0,26.0,30.0
+561,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,160,18,400,55.0,45.0,34.0,35.0
+562,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,180,22,450,30.0,11.0,23.0,30.0
+563,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,180,22,450,47.0,28.0,21.0,35.0
+564,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,200,26,500,23.0,25.0,20.0,30.0
+565,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,200,26,500,40.0,25.0,28.0,35.0
+566,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,220,26,550,16.0,25.0,17.0,30.0
+567,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,220,26,550,32.0,25.0,25.0,35.0
+568,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,240,26,600,8.0,25.0,14.0,30.0
+569,Maharashtra,6,Pearl millet,Saburi-RHRBH-8609,Kharif,240,26,600,25.0,25.0,22.0,35.0
+570,Maharashtra,8,Chickpea,Vishal,Rabi,100,6,200,59.0,61.0,18.0,20.0
+571,Maharashtra,8,Chickpea,Vishal,Rabi,100,6,200,85.0,802.0,24.0,25.0
+572,Maharashtra,8,Chickpea,Vishal,Rabi,120,8,250,50.0,55.0,16.0,20.0
+573,Maharashtra,8,Chickpea,Vishal,Rabi,120,8,250,76.0,75.0,22.0,25.0
+574,Maharashtra,8,Chickpea,Vishal,Rabi,140,10,300,41.0,50.0,14.0,20.0
+575,Maharashtra,8,Chickpea,Vishal,Rabi,140,10,300,64.0,69.0,20.0,25.0
+576,Maharashtra,8,Chickpea,Vishal,Rabi,160,12,350,31.0,44.0,12.0,20.0
+577,Maharashtra,8,Chickpea,Vishal,Rabi,160,12,350,58.0,64.0,18.0,25.0
+578,Maharashtra,8,Chickpea,Vishal,Rabi,180,14,400,22.0,39.0,10.0,20.0
+579,Maharashtra,8,Chickpea,Vishal,Rabi,180,14,400,48.0,58.0,16.0,25.0
+580,Maharashtra,8,Chickpea,Vishal,Rabi,200,16,450,13.0,33.0,8.0,20.0
+581,Maharashtra,8,Chickpea,Vishal,Rabi,200,16,450,39.0,52.0,14.0,25.0
+582,Maharashtra,8,Chickpea,Vishal,Rabi,220,18,500,25.0,28.0,25.0,20.0
+583,Maharashtra,8,Chickpea,Vishal,Rabi,220,18,500,30.0,47.0,12.0,25.0
+584,Maharashtra,8,Chickpea,Vishal,Rabi,240,20,550,25.0,22.0,25.0,20.0
+585,Maharashtra,8,Chickpea,Vishal,Rabi,240,20,550,21.0,41.0,25.0,25.0
+586,Maharashtra,8,Chickpea,Vishal,Rabi,260,22,600,25.0,16.0,25.0,20.0
+587,Maharashtra,8,Chickpea,Vishal,Rabi,260,22,600,25.0,36.0,25.0,25.0
+588,Maharashtra,8,Chickpea,Vishal,Rabi,260,24,650,25.0,25.0,25.0,20.0
+589,Maharashtra,8,Chickpea,Vishal,Rabi,260,24,650,25.0,30.0,25.0,25.0
+590,Maharashtra,8,Okra,Arka anamika,Summer,100,6,200,157.0,110.0,109.0,12.0
+591,Maharashtra,8,Okra,Arka anamika,Summer,100,6,200,121.0,88.0,90.0,12.0
+592,Maharashtra,8,Okra,Arka anamika,Summer,120,8,300,148.0,105.0,94.0,12.0
+593,Maharashtra,8,Okra,Arka anamika,Summer,120,8,300,113.0,83.0,76.0,12.0
+594,Maharashtra,8,Okra,Arka anamika,Summer,140,10,400,139.0,100.0,79.0,12.0
+595,Maharashtra,8,Okra,Arka anamika,Summer,140,10,400,104.0,79.0,62.0,12.0
+596,Maharashtra,8,Okra,Arka anamika,Summer,160,12,500,130.0,95.0,64.0,12.0
+597,Maharashtra,8,Okra,Arka anamika,Summer,160,12,500,96.0,74.0,48.0,12.0
+598,Maharashtra,8,Okra,Arka anamika,Summer,180,14,600,121.0,91.0,59.0,12.0
+599,Maharashtra,8,Okra,Arka anamika,Summer,180,14,600,88.0,70.0,34.0,12.0
+600,Maharashtra,8,Okra,Arka anamika,Summer,200,16,700,112.0,86.0,34.0,12.0
+601,Maharashtra,8,Okra,Arka anamika,Summer,200,16,700,79.0,65.0,20.0,12.0
+602,Maharashtra,8,Okra,Arka anamika,Summer,220,18,800,103.0,81.0,19.0,12.0
+603,Maharashtra,8,Okra,Arka anamika,Summer,220,18,800,71.0,61.0,25.0,12.0
+604,Maharashtra,8,Brinjal,Krishna,Summer,100,6,200,188.0,113.0,134.5,50.0
+605,Maharashtra,8,Brinjal,Krishna,Summer,100,6,200,236.2,144.4,166.6,60.0
+606,Maharashtra,8,Brinjal,Krishna,Summer,120,8,300,177.4,98.4,121.5,50.0
+607,Maharashtra,8,Brinjal,Krishna,Summer,120,8,300,225.6,129.8,153.6,60.0
+608,Maharashtra,8,Brinjal,Krishna,Summer,140,10,400,166.8,83.8,108.5,50.0
+609,Maharashtra,8,Brinjal,Krishna,Summer,140,10,400,215.0,115.2,140.6,60.0
+610,Maharashtra,8,Brinjal,Krishna,Summer,160,12,500,156.2,69.3,95.5,50.0
+611,Maharashtra,8,Brinjal,Krishna,Summer,160,12,500,204.4,100.5,127.6,60.0
+612,Maharashtra,8,Brinjal,Krishna,Summer,180,14,600,145.6,54.5,82.5,50.0
+613,Maharashtra,8,Brinjal,Krishna,Summer,180,14,600,193.8,85.9,114.6,60.0
+614,Maharashtra,8,Brinjal,Krishna,Summer,200,16,700,135.0,39.8,69.5,50.0
+615,Maharashtra,8,Brinjal,Krishna,Summer,200,16,700,183.2,71.2,101.6,60.0
+616,Maharashtra,8,Cabbage,Golden acre,Rabi,100,6,200,227.4,128.0,162.0,30.0
+617,Maharashtra,8,Cabbage,Golden acre,Rabi,100,6,200,310.0,175.0,229.0,40.0
+618,Maharashtra,8,Cabbage,Golden acre,Rabi,120,8,300,223.2,123.0,143.0,30.0
+619,Maharashtra,8,Cabbage,Golden acre,Rabi,120,8,300,306.0,170.0,210.0,40.0
+620,Maharashtra,8,Cabbage,Golden acre,Rabi,140,10,400,219.0,118.0,124.0,30.0
+621,Maharashtra,8,Cabbage,Golden acre,Rabi,140,10,400,302.0,165.0,191.0,40.0
+622,Maharashtra,8,Cabbage,Golden acre,Rabi,160,12,500,214.8,114.0,105.0,30.0
+623,Maharashtra,8,Cabbage,Golden acre,Rabi,160,12,500,298.0,108.0,172.0,40.0
+624,Maharashtra,8,Cabbage,Golden acre,Rabi,180,14,600,210.6,109.0,86.0,30.0
+625,Maharashtra,8,Cabbage,Golden acre,Rabi,180,14,600,293.0,156.0,153.0,40.0
+626,Maharashtra,8,Cabbage,Golden acre,Rabi,200,16,700,206.4,104.0,67.0,30.0
+627,Maharashtra,8,Cabbage,Golden acre,Rabi,200,16,700,289.0,151.0,134.0,40.0
+628,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,100,6,200,136.0,93.0,82.0,25.0
+629,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,100,6,200,106.0,74.0,54.0,25.0
+630,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,120,8,300,128.0,89.0,74.0,25.0
+631,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,120,8,300,100.0,70.0,48.0,25.0
+632,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,140,10,400,122.0,83.0,66.0,25.0
+633,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,140,10,400,94.0,66.0,42.0,25.0
+634,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,160,12,500,115.0,80.0,58.0,25.0
+635,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,160,12,500,88.0,62.0,36.0,25.0
+636,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,180,14,600,108.0,75.0,50.0,25.0
+637,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,180,14,600,82.0,57.0,30.0,25.0
+638,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,200,16,700,101.0,71.0,42.0,25.0
+639,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,200,16,700,76.0,53.0,24.0,25.0
+640,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,220,18,800,94.0,66.0,34.0,25.0
+641,Maharashtra,8,Cauliflower,Namdhari N0. 90,Rabi,220,18,800,70.0,49.0,18.0,25.0
+642,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,100,6,200,231.0,125.0,196.0,175.0
+643,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,100,6,200,171.0,113.0,175.0,175.0
+644,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,120,8,300,223.0,114.0,179.0,175.0
+645,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,120,8,300,165.0,104.0,152.0,175.0
+646,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,140,10,400,251.0,103.0,162.0,175.0
+647,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,140,10,400,158.0,93.0,137.0,175.0
+648,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,160,12,500,207.0,92.0,145.0,175.0
+649,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,160,12,500,152.0,82.0,121.0,175.0
+650,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,180,14,600,199.0,81.0,128.0,175.0
+651,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,180,14,600,146.0,72.0,105.0,175.0
+652,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,200,16,700,191.0,70.0,111.0,175.0
+653,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,200,16,700,140.0,61.0,90.0,175.0
+654,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,220,18,800,183.0,59.0,94.12,175.0
+655,Maharashtra,11,Potato,Khurfi Jyoti,Rabi,220,18,800,133.2,50.2,74.1,175.0
+656,Maharashtra,11,Tomato,Dhanshree,Summer,100,6,200,114.0,91.0,105.0,30.0
+657,Maharashtra,11,Tomato,Dhanshree,Summer,100,6,200,70.0,53.0,52.0,30.0
+658,Maharashtra,11,Tomato,Dhanshree,Summer,120,8,300,105.0,84.0,80.0,30.0
+659,Maharashtra,11,Tomato,Dhanshree,Summer,120,8,300,61.0,47.0,30.0,30.0
+660,Maharashtra,11,Tomato,Dhanshree,Summer,140,10,400,96.0,75.0,55.0,30.0
+661,Maharashtra,11,Tomato,Dhanshree,Summer,140,10,400,52.0,42.0,25.0,30.0
+662,Maharashtra,11,Tomato,Dhanshree,Summer,160,12,500,86.0,66.0,30.0,30.0
+663,Maharashtra,11,Tomato,Dhanshree,Summer,160,12,500,44.0,36.0,25.0,30.0
+664,Maharashtra,11,Tomato,Dhanshree,Summer,180,14,600,77.0,55.0,25.0,30.0
+665,Maharashtra,11,Tomato,Dhanshree,Summer,180,14,600,35.0,30.0,25.0,30.0
+666,Maharashtra,11,Tomato,Dhanshree,Summer,200,16,700,68.0,50.0,25.0,30.0
+667,Maharashtra,11,Tomato,Dhanshree,Summer,200,16,700,27.0,25.0,25.0,30.0
+668,Maharashtra,11,Tomato,Dhanshree,Summer,220,18,800,59.0,42.0,25.0,30.0
+669,Maharashtra,11,Tomato,Dhanshree,Summer,220,18,800,18.0,19.0,25.0,30.0
+670,Maharashtra,8,Turmeric,Salem,Kharif,100,6,200,599.0,273.0,269.0,70.0
+671,Maharashtra,8,Turmeric,Salem,Kharif,100,6,200,313.0,231.0,198.0,70.0
+672,Maharashtra,8,Turmeric,Salem,Kharif,120,8,300,563.0,257.0,215.0,70.0
+673,Maharashtra,8,Turmeric,Salem,Kharif,120,8,300,295.0,218.0,153.0,70.0
+674,Maharashtra,8,Turmeric,Salem,Kharif,140,10,400,528.0,242.0,160.0,70.0
+675,Maharashtra,8,Turmeric,Salem,Kharif,140,10,400,277.0,206.0,108.0,70.0
+676,Maharashtra,8,Turmeric,Salem,Kharif,160,12,500,492.0,227.0,106.0,70.0
+677,Maharashtra,8,Turmeric,Salem,Kharif,160,12,500,260.0,193.0,63.0,70.0
+678,Maharashtra,8,Turmeric,Salem,Kharif,180,14,600,457.0,212.0,51.0,70.0
+679,Maharashtra,8,Turmeric,Salem,Kharif,180,14,600,242.0,180.0,18.0,70.0
+680,Maharashtra,8,Turmeric,Salem,Kharif,200,16,700,421.0,197.0,25.0,70.0
+681,Maharashtra,8,Turmeric,Salem,Kharif,200,16,700,225.0,167.0,25.0,70.0
+682,Maharashtra,8,Turmeric,Salem,Kharif,220,18,800,385.0,182.0,25.0,70.0
+683,Maharashtra,8,Turmeric,Salem,Kharif,220,18,800,207.0,154.0,25.0,70.0
+684,Maharashtra,8,Chilli,Phule Jyoti,Rabi,100,6,200,297.6,170.6,195.3,7.0
+685,Maharashtra,8,Chilli,Phule Jyoti,Rabi,100,6,200,186.9,141.1,169.4,7.0
+686,Maharashtra,8,Chilli,Phule Jyoti,Rabi,120,8,300,286.8,164.2,165.3,7.0
+687,Maharashtra,8,Chilli,Phule Jyoti,Rabi,120,8,300,178.9,135.2,143.4,7.0
+688,Maharashtra,8,Chilli,Phule Jyoti,Rabi,140,10,400,276.0,157.9,135.3,7.0
+689,Maharashtra,8,Chilli,Phule Jyoti,Rabi,140,10,400,170.9,129.3,117.4,7.0
+690,Maharashtra,8,Chilli,Phule Jyoti,Rabi,160,12,500,265.2,151.5,105.3,7.0
+691,Maharashtra,8,Chilli,Phule Jyoti,Rabi,160,12,500,162.9,123.3,91.4,7.0
+692,Maharashtra,8,Chilli,Phule Jyoti,Rabi,180,14,600,254.4,145.2,75.3,7.0
+693,Maharashtra,8,Chilli,Phule Jyoti,Rabi,180,14,600,154.9,117.4,65.4,7.0
+694,Maharashtra,8,Chilli,Phule Jyoti,Rabi,200,16,700,243.6,138.9,45.3,7.0
+695,Maharashtra,8,Chilli,Phule Jyoti,Rabi,200,16,700,146.9,111.4,39.4,7.0
+696,Maharashtra,8,Chilli,Phule Jyoti,Rabi,220,18,800,232.8,132.5,15.3,7.0
+697,Maharashtra,8,Chilli,Phule Jyoti,Rabi,220,18,800,138.9,105.5,13.4,7.0
+698,Maharashtra,8,Onion,N-2-4-1,Rabi,100,6,200,81.0,74.0,52.0,25.0
+699,Maharashtra,8,Onion,N-2-4-1,Rabi,100,6,200,108.0,94.0,67.0,30.0
+700,Maharashtra,8,Onion,N-2-4-1,Rabi,120,8,300,70.0,65.0,39.0,25.0
+701,Maharashtra,8,Onion,N-2-4-1,Rabi,120,8,300,97.0,85.0,54.0,30.0
+702,Maharashtra,8,Onion,N-2-4-1,Rabi,140,10,400,59.0,57.0,26.0,25.0
+703,Maharashtra,8,Onion,N-2-4-1,Rabi,140,10,400,86.0,77.0,41.0,30.0
+704,Maharashtra,8,Onion,N-2-4-1,Rabi,160,12,500,49.0,48.0,25.0,25.0
+705,Maharashtra,8,Onion,N-2-4-1,Rabi,160,12,500,76.0,68.0,28.0,30.0
+706,Maharashtra,8,Onion,N-2-4-1,Rabi,180,14,600,38.0,39.0,25.0,25.0
+707,Maharashtra,8,Onion,N-2-4-1,Rabi,180,14,600,65.0,60.0,25.0,30.0
+708,Maharashtra,8,Onion,N-2-4-1,Rabi,200,16,700,27.0,30.0,25.0,25.0
+709,Maharashtra,8,Onion,N-2-4-1,Rabi,200,16,700,54.0,51.0,25.0,30.0
+710,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,100,6,200,36.0,63.0,67.0,16.0
+711,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,100,6,200,58.0,86.0,93.0,20.0
+712,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,120,8,300,25.0,54.0,50.0,16.0
+713,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,120,8,300,47.0,77.0,76.0,20.0
+714,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,140,10,400,14.0,44.0,33.0,16.0
+715,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,140,10,400,37.0,67.0,59.0,20.0
+716,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,160,12,500,25.0,35.0,16.0,16.0
+717,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,160,12,500,25.0,58.0,42.0,20.0
+718,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,180,14,600,25.0,25.0,1.0,16.0
+719,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,180,14,600,15.0,48.0,25.0,20.0
+720,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,200,16,700,25.0,16.0,25.0,16.0
+721,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,200,16,700,25.0,39.0,25.0,20.0
+722,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,200,18,800,25.0,25.0,25.0,16.0
+723,Maharashtra,12,Pigeonpea,ICPL-87,Kharif,200,18,800,29.0,25.0,200.0,20.0
