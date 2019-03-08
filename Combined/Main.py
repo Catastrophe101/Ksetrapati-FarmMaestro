@@ -63,7 +63,8 @@ def yieldPredict(test_input):
     y_predicted = []
     for m in model_list:
         ys = 10*m[0].predict(test_input)
-        y_predicted.append([ys[0], m[1], m[2]])
+        if ys[0]>0:
+            y_predicted.append([ys[0], m[1], m[2]])
         # print(m[1], m[2])
         # print(ys)
     y_predicted.sort(reverse=True)
@@ -75,7 +76,7 @@ def yieldPredict(test_input):
 def train_mod_two():
     clmns = ['Available-N(kg/ha)', 'Available-P(kg/ha)', 'Available-K(kg/ha)']
     tr_clmns = ['Available-N(kg/ha)', 'Available-P(kg/ha)', 'Available-K(kg/ha)']
-    i = 50
+    i = 70
     kmeans = KMeans(n_clusters=i, random_state=0).fit(df_tr[tr_clmns])
     labels = kmeans.labels_
     df_tr['clusters'] = labels

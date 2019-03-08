@@ -105,6 +105,6 @@ while(True):
     row = int(row)+2*norow
     col= chr(ord(col)-4)
     print("New Row is : "+str(row))
-xfile.save('IndianNPKDataset.xlsx')
+xfile.save('../DataSets/IndianNPKDataset.xlsx')
 
 

@@ -98,3 +98,7 @@ plt.show()
 #print (df_tr[clmns].groupby(['clusters']).mean())
 #df_tr=df_tr[clmns].groupby(['clusters']).mean()
 #df_clust
+
+
+
+100 5 200 156 108 73 189 128 91 150 10 250 137 97 65 170 117 83 200 15 300 118 86 57 151 106 75 250 20 350 99 74 49 132 94 67 300 25 400 80 63 41 113 83 59
