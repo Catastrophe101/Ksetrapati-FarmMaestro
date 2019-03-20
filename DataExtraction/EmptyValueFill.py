@@ -1,5 +1,5 @@
 import openpyxl
-xfile = openpyxl.load_workbook('CPR(nishit).xlsx')
+xfile = openpyxl.load_workbook('CropPricesComplete.xlsx')
 
 sheet = xfile.get_sheet_by_name('Sheet1')
 start=int(input("Enter the starting index : "))
@@ -12,7 +12,7 @@ for i in range(start,end+1):
     if (sheet["C" + str(i + 1)].value == None):
         sheet["C" + str(i + 1)].value = sheet["C" + str(i)].value
     # print(sheet["B"+str(i)].value)
-xfile.save('CPR(nishit).xlsx')
+xfile.save('CropPricesComplete.xlsx')
 # for i in range(2,9128):
 #     # a=str(sheet["I"+str(i)].value)
 #     # b=a.split("-")
