@@ -125,7 +125,7 @@ for row in output.itertuples():
             
 
 
-# In[20]:
+# In[8]:
 
 
 print(a)
@@ -183,34 +183,29 @@ print(tot_cp) # total cost price of fertlizer
 print(tot)#total
 
 
-# In[44]:
+# In[34]:
 
 
 new = output[['Fert_name', 'price/kg']].copy()
-new1=pd.DataFrame(new)
+#new1=new.values.T.tolist()
+new1=list(new.values.flatten())
 
 
-# In[45]:
+# In[35]:
 
 
-print(new1)
+#print(new1[1])
 
 
-# In[46]:
+# In[36]:
 
 
-fin={'Reqd_N':[b[0]],'Reqd_P':[b[1]],'Reqd_K':[b[2]],'Total_price':[cp_a[2]],'Urea_reqd':[c[0]],'triple superphosphate_reqd':[c[1]],'Potassium_chloride_reqd':[c[2]],'Urea_price':[cp_c[0]],'triple superphosphate_price':[cp_c[1]],'Potassium_chloride_price':[cp_c[2]],'Grand_total':tot}
+fin={'Suggested_fert':[new1[0]],'Suggested_fert_price/kg':[new1[1]],'Reqd_N':[b[0]],'Reqd_P':[b[1]],'Reqd_K':[b[2]],'Total_price':[cp_a[2]],'Urea_reqd':[c[0]],'triple superphosphate_reqd':[c[1]],'Potassium_chloride_reqd':[c[2]],'Urea_price':[cp_c[0]],'triple superphosphate_price':[cp_c[1]],'Potassium_chloride_price':[cp_c[2]],'Grand_total':tot}
 
 
-# In[47]:
+# In[37]:
 
 
 fin1=pd.DataFrame(fin)
-
-
-# In[49]:
-
-
-final=pd.concat([new1,fin1])
-print(final)
+print(fin1)
 
