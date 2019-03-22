@@ -125,12 +125,12 @@ for row in output.itertuples():
             
 
 
-# In[8]:
+# In[20]:
 
 
 print(a)
 print(cp_a)
-print(b)
+print(b) #the total kg of fertilizer the predicted cluster can provide of n-p-k proportion
 
 
 # In[9]:
@@ -168,9 +168,12 @@ print(cp_c) # rate of fertilizer
 
 tot_cp=[0,0,0]
 tot=0
+cp_a.sort()
+cp=cp_a[2]
 for i in range(0,3):
-    tot_cp[i]=cp_a[i]+cp_c[i]
+    tot_cp[i]=cp_c[i]
     tot=tot+tot_cp[i]
+tot=tot+cp
 
 
 # In[12]:
@@ -178,4 +181,36 @@ for i in range(0,3):
 
 print(tot_cp) # total cost price of fertlizer
 print(tot)#total
+
+
+# In[44]:
+
+
+new = output[['Fert_name', 'price/kg']].copy()
+new1=pd.DataFrame(new)
+
+
+# In[45]:
+
+
+print(new1)
+
+
+# In[46]:
+
+
+fin={'Reqd_N':[b[0]],'Reqd_P':[b[1]],'Reqd_K':[b[2]],'Total_price':[cp_a[2]],'Urea_reqd':[c[0]],'triple superphosphate_reqd':[c[1]],'Potassium_chloride_reqd':[c[2]],'Urea_price':[cp_c[0]],'triple superphosphate_price':[cp_c[1]],'Potassium_chloride_price':[cp_c[2]],'Grand_total':tot}
+
+
+# In[47]:
+
+
+fin1=pd.DataFrame(fin)
+
+
+# In[49]:
+
+
+final=pd.concat([new1,fin1])
+print(final)
 
