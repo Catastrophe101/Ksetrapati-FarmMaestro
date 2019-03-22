@@ -183,7 +183,7 @@ print(tot_cp) # total cost price of fertlizer
 print(tot)#total
 
 
-# In[34]:
+# In[13]:
 
 
 new = output[['Fert_name', 'price/kg']].copy()
@@ -191,21 +191,21 @@ new = output[['Fert_name', 'price/kg']].copy()
 new1=list(new.values.flatten())
 
 
-# In[35]:
+# In[14]:
 
 
 #print(new1[1])
 
 
-# In[36]:
+# In[15]:
 
 
 fin={'Suggested_fert':[new1[0]],'Suggested_fert_price/kg':[new1[1]],'Reqd_N':[b[0]],'Reqd_P':[b[1]],'Reqd_K':[b[2]],'Total_price':[cp_a[2]],'Urea_reqd':[c[0]],'triple superphosphate_reqd':[c[1]],'Potassium_chloride_reqd':[c[2]],'Urea_price':[cp_c[0]],'triple superphosphate_price':[cp_c[1]],'Potassium_chloride_price':[cp_c[2]],'Grand_total':tot}
 
 
-# In[37]:
+# In[16]:
 
 
-fin1=pd.DataFrame(fin)
+fin1=pd.DataFrame(fin,columns=['Suggested_fert','Suggested_fert_price/kg','Reqd_N','Reqd_P','Reqd_K','Total_price','Urea_reqd','triple superphosphate_reqd','Potassium_chloride_reqd','Urea_price','triple superphosphate_price','Potassium_chloride_price','Grand_total'])
 print(fin1)
 
